@@ -9,7 +9,7 @@
 
 ## Description
 
-In this lesson you will review how to send follow-up messages after sending applications or having interviews. 
+In this lesson you will review how to send follow-up messages after sending applications or having interviews.
 
 ### Why is it important to send a follow-up message?
 
@@ -23,7 +23,7 @@ In a previous module, you studied how to write messages for these two situations
 
 If you want to refresh your knowledge about follow-up messages, review these lessons:
 
-- [How to send job application follow ups?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-send-job-application-follow-ups.md)
+- [How to send job application follow ups?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-send-job-application-follow-ups.md)
 - [How Do I Write and Send Good Thank You Emails After an Interview?](https://microverse.zendesk.com/hc/en-us/articles/360059985873-How-Do-I-Write-and-Send-Good-Thank-You-Emails-After-an-Interview-)
 
 ### Sample emails
@@ -39,4 +39,4 @@ Start drafting your message now. Once you start job searching, you will be assig
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

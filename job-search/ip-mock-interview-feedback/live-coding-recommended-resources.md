@@ -32,7 +32,7 @@ Below you'll find various resources that will help you improve.
 A competent coder can get a good understanding of the requirements, plan out their solution and narrate their work process.
 
 - [How to solve live coding challenges](../../interviewing/how-to-solve-live-coding-challenges.md)
-- [Coding challenges practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/coding-challenges/coding_challenges_practice.md)
+- [Coding challenges practice](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/coding-challenges/coding_challenges_practice.md)
 
 ### Competency: Communication
 

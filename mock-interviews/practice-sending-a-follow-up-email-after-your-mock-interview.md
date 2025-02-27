@@ -20,14 +20,14 @@ In the lesson "_How to follow-up after an interview_", you learned when it is ap
 
 **Refresh your memory about how to follow up after an interview :**
 
-- [How to follow up after an interview](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-follow-up-after-an-interview.md)
+- [How to follow up after an interview](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/how-to-follow-up-after-an-interview.md)
 - [How do I follow up with recruiters and hiring managers?](https://microverse.zendesk.com/hc/en-us/articles/360051285013-How-do-I-follow-up-with-recruiters-and-hiring-managers-)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Open your copy of the exercise template below.
 2. Complete all sections of your copy of the template.
@@ -36,17 +36,16 @@ In the lesson "_How to follow-up after an interview_", you learned when it is ap
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [How following up can help you land the job](https://www.themuse.com/advice/how-following-up-can-help-you-land-the-job)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

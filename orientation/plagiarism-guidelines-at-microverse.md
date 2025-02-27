@@ -12,7 +12,7 @@
 
 This lesson will cover Microverse's plagiarism **policy** & anti-plagiarism **guidelines**, and talk about the importance and consequences of plagiarism in the Program.
 
-### ❗️ Why is detecting plagiarism important at Microverse? 
+### ❗️ Why is detecting plagiarism important at Microverse?
 
 As a software developer you often use code written by other people when you solve problems other programmers have run into before (e.g. libraries, code on Stackoverflow, open-source code).
 
@@ -24,13 +24,12 @@ Our goal for you is to learn and become better programmers and problem solvers. 
 
 To help you prevent performing acts of plagiarism, we have created resources to help you learn better from others:
 
-- [Anti-plagiarism guidelines at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/plagiarism-guidelines-at-microverse-learn-more.md) 
+- [Anti-plagiarism guidelines at Microverse](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/orientation/plagiarism-guidelines-at-microverse-learn-more.md)
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
 [![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
 
-
-### 🔎 What is Microverse's policy when plagiarism is detected? 
+### 🔎 What is Microverse's policy when plagiarism is detected?
 
 First of all, how does Microverse detect plagiarism? And if it does, what happens next? In the following resources you can learn more about our process and the consequences in the cases it might happen:
 
@@ -41,11 +40,11 @@ First of all, how does Microverse detect plagiarism? And if it does, what happen
 
 ## 🌟 Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you._
 
 - [What is code plagiarism in computer science?](https://codequiry.com/code-plagiarism)
 - [Plagiarism and programming: how to code without plagiarizing?](https://www.turnitin.com/blog/plagiarism-and-programming-how-to-code-without-plagiarizing-2)
 
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

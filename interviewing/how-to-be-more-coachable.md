@@ -22,7 +22,7 @@ One of the keys to being coachable is having a **growth mindset**.
 
 This is a belief that **you can change**, as well as recognizing that growth is a process, not a destination. Adopting a growth mindset allows you to **view coaching as an opportunity for learning and personal development**, rather than criticism or attack.
 
-- [Using a growth mindset to overcome challenges](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/using-a-growth-mindset-to-overcome-challenges.md)
+- [Using a growth mindset to overcome challenges](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/using-a-growth-mindset-to-overcome-challenges.md)
 
 ### Tip 2: Be open to feedback
 
@@ -34,7 +34,7 @@ Being coachable requires **being open to feedback**, both positive and negative.
 
 The last point is crucial, as it is the actual demonstration of being open to feedback; by actually applying it directly.
 
-- [Fundamentals of giving and receiving feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/fundamentals-of-giving-and-receiving-feedback.md)
+- [Fundamentals of giving and receiving feedback](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/fundamentals-of-giving-and-receiving-feedback.md)
 
 ### Tip 3: Practice active listening
 

@@ -36,7 +36,7 @@ _Use these questions to check what you learned during this lesson._
 - How many times will you review my application materials as I job search?
 - What should you look at in the final sweep?
 
-[Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/answer-to-the-challenge-questions-final-sweep-intro.md)
+[Click here to check your answers to these questions.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/answer-to-the-challenge-questions-final-sweep-intro.md)
 
 ---
 

@@ -16,21 +16,21 @@ Because checking in on your dream job has a lot of advantages. It will help you 
 
 ### Check-in on your dream company wishlist
 
-In the lesson *"[Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",* you created a list of the companies you would like to work with,  and also identified similar companies in the industry that you could also work with. This is a great place to restart checking in on your dream companies. Are they still the same? Or have your desires changed? Have you found more companies you would like to add to the list? Give this some thought as you read through your dream company wishlist again.
+In the lesson _"[Define your dream companies](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",_ you created a list of the companies you would like to work with, and also identified similar companies in the industry that you could also work with. This is a great place to restart checking in on your dream companies. Are they still the same? Or have your desires changed? Have you found more companies you would like to add to the list? Give this some thought as you read through your dream company wishlist again.
 
-- [A quick reminder of my list of dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)
+- [A quick reminder of my list of dream companies](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)
 
 ### Check-in on your dream companies' norms and cultures
 
-In the lesson "[_Learn the norms and culture of your future workplace_](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)", you created a list of norms and cultures that you wanted to see in your future company. This is a great time to review your dream company list and ask yourself: do these companies have the norms and cultures I want? If they don't you can go back to the list of similar companies you identified in the industry and see if they have the norms and cultures you are interested in. Knowing company norms and cultures that fit you can enable you to ask the right questions in interviews so that you can determine whether the dream company you want to work for fits your style.
+In the lesson "[_Learn the norms and culture of your future workplace_](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)", you created a list of norms and cultures that you wanted to see in your future company. This is a great time to review your dream company list and ask yourself: do these companies have the norms and cultures I want? If they don't you can go back to the list of similar companies you identified in the industry and see if they have the norms and cultures you are interested in. Knowing company norms and cultures that fit you can enable you to ask the right questions in interviews so that you can determine whether the dream company you want to work for fits your style.
 
-- [A quick reminder of my preferred norms and cultures in my dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)
+- [A quick reminder of my preferred norms and cultures in my dream company](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)
 
 ### Check-in on steps to getting hired at your dream company
 
-Students often ask *"What advice can you give me to land a job quickly?"*. In the lesson *"[Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",* you learned a very important topic called "_How to get hired by your dream company_". In that topic, we discussed 5 important steps to take to raise your chances of getting hired by your dream company. Have you been able to execute those 5 steps yet? If not, don't worry because, in this lesson, you will create a checklist to guide you in executing each of those steps so you can come closer to landing your dream job.
+Students often ask _"What advice can you give me to land a job quickly?"_. In the lesson _"[Define your dream companies](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",_ you learned a very important topic called "_How to get hired by your dream company_". In that topic, we discussed 5 important steps to take to raise your chances of getting hired by your dream company. Have you been able to execute those 5 steps yet? If not, don't worry because, in this lesson, you will create a checklist to guide you in executing each of those steps so you can come closer to landing your dream job.
 
-- [A quick reminder of steps to take to get hired at your dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
+- [A quick reminder of steps to take to get hired at your dream company](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
 
 ### My Getting Hired checklist
 
@@ -42,7 +42,7 @@ Go through the checklist slowly, and create little goals for yourself which can 
 
 ## Challenge yourself
 
-*Use these questions to check what you learned during this lesson.* 
+_Use these questions to check what you learned during this lesson._
 
 - What are three things in the Getting Hired checklist above that you would like to work on to get you closer to your dream companies?
 - In the steps to take to get hired by your dream company, which of them would you start with and why?
@@ -50,13 +50,12 @@ Go through the checklist slowly, and create little goals for yourself which can 
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Podcast - define your dream tech job before it defines you](https://youaretechy.com/21-1/)
 - [How to design a dream job in tech](https://www.themuse.com/advice/how-to-design-a-dream-job-in-tech)
 - [A step-by-step guide to finding your dream job in tech](https://blog.manningglobal.com/guide-dream-job-in-tech/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

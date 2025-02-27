@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The purpose of this lesson is to guide you through answering the recruitment question about your salary expectations. 
+The purpose of this lesson is to guide you through answering the recruitment question about your salary expectations.
 
 ### Why is knowing how to answer the salary question important?
 
@@ -16,7 +16,7 @@ In the early stages of the interview process, you may be asked about your desire
 
 ### How to respond to questions about salary
 
-While a question about your salary expectations is one of the more straightforward things employers ask during a job interview, it can be stressful to talk about money. You can manage this stress by preparing your answers to salary-related questions ahead of time. 
+While a question about your salary expectations is one of the more straightforward things employers ask during a job interview, it can be stressful to talk about money. You can manage this stress by preparing your answers to salary-related questions ahead of time.
 
 **Guiding questions:**
 
@@ -25,13 +25,13 @@ While a question about your salary expectations is one of the more straightforwa
 
 **Learn more about responding to salary questions:**
 
-[How to answer the salary expectation question](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-answer-the-salary-expectation-question.md)
+[How to answer the salary expectation question](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-answer-the-salary-expectation-question.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Open the exercise template and complete the exercise.
 
@@ -44,12 +44,11 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Interview Question: "What Are Your Salary Expectations"](https://www.thebalancecareers.com/interview-questions-about-your-salary-expectations-2061235)
 - [How to Answer, 'What's Your Expected Salary?'](https://www.roberthalf.com/blog/salaries-and-skills/how-to-answer-whats-your-expected-salary)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

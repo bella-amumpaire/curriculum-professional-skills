@@ -35,7 +35,7 @@ As always, please review the article below to ensure that you've remained famili
 
 ### Project requirements
 
-- [Make sure that your Wellfound profile meets every requirement of the Wellfound rubric](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit). If you have followed the [Wellfound curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md), it should do so automatically.
+- [Make sure that your Wellfound profile meets every requirement of the Wellfound rubric](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit). If you have followed the [Wellfound curriculum](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md), it should do so automatically.
 - Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**

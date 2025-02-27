@@ -8,7 +8,7 @@
 
 ## Description
 
-***NOTE: Dec 23rd, 2023 Microverse platform at Huntr with  premium features will be deprecated. You can still use Huntr’s free service if you choose. We also prepared this [Job Application Tracking Sheet](https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) for you. You can duplicate it and use it for tracking your job search.*** 
+**_NOTE: Dec 23rd, 2023 Microverse platform at Huntr with premium features will be deprecated. You can still use Huntr’s free service if you choose. We also prepared this [Job Application Tracking Sheet](https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) for you. You can duplicate it and use it for tracking your job search._**
 
 In this lesson, you will learn how to effectively track your job search progress using Huntr.
 
@@ -30,33 +30,32 @@ Huntr is a job tracking tool that helps you store all your job applications in o
 
 **Guiding questions:**
 
-*Think about these questions as you learn about tracking your job search using Huntr.*
+_Think about these questions as you learn about tracking your job search using Huntr._
 
 - How will I know if my job search activities are working? Will Huntr be able to provide me with that information?
 
 Huntr is the tool you will use to track your job applications, interviews, and job offers so you can see the status of each application as you progress through hiring pipelines. On top of this, Huntr has several other benefits that will help you job search effectively. The link below shows you all of these benefits.
 
- **Learn more about the benefits of using Huntr to track your progress:**
+**Learn more about the benefits of using Huntr to track your progress:**
 
-- [The benefits of using Huntr to track your progress](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/the-benefits-of-using-huntr-to-track-your-progress.md)
+- [The benefits of using Huntr to track your progress](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/the-benefits-of-using-huntr-to-track-your-progress.md)
 
-### Important note about Huntr accounts 
+### Important note about Huntr accounts
 
 When you create your Huntr board, it´s important you use the link we provide in the curriculum so you can add an unlimited number of jobs to your board. Free Huntr accounts only allow you to add 25. We will provide detailed instructions in an exercise ahead.
 
- If you want to sign in to Huntr right now, make sure to use [this link](https://huntr.co/microverse/signup).
+If you want to sign in to Huntr right now, make sure to use [this link](https://huntr.co/microverse/signup).
 
 ## Challenge yourself
 
-*Use these questions to check what you learned during this lesson.* 
+_Use these questions to check what you learned during this lesson._
 
 - How many job applications do we recommend you do per day for best results in your job search?
 - Is collaborative team planning one of the benefits of using Huntr?
 - How do we recommend you test out the Huntr Chrome extension to make sure it is working?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/answers-to-the-challenge-yourself-questions-using-huntr.md)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/answers-to-the-challenge-yourself-questions-using-huntr.md)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

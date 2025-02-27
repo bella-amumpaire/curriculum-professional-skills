@@ -77,7 +77,7 @@ The Experience section is the most important part of your LinkedIn profile. Here
 
 1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn. Note: Click on the Add position option that appear in the Add profile section menu to begin copying your experiences.
 2. Take an additional 10 minutes to **use the checklist above** to help identify any copy/paste errors.
-3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Fill in the Education section
 
@@ -91,7 +91,7 @@ You're more than halfway done with your LinkedIn profile, and we'll continue our
 
 1. Take 5 minutes to copy/paste your education from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Add keywords to your LinkedIn by completing the Skills section
 
@@ -147,7 +147,7 @@ If you already have volunteer experience, though (either at Microverse or anyone
 
 1. If relevant, take 5 minutes to copy/paste your volunteer experience from your resume into LinkedIn.
 2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## **Should you include other sections from the Recommended or Additional options?**
 
@@ -155,7 +155,7 @@ Sure! LinkedIn offers several types of blocks that can be added to your profile,
 
 Two more things to keep in mind:
 
-- **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
+- **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, _Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile_).
 - Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to the Publication section of Accomplishments.
 
 **Apply what you've learned**
@@ -198,21 +198,20 @@ The Activity section is **optional**. It won't affect the score that Microverse 
 
 ## Review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a review of your project.
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [HOW TO BUILD AN AMAZING LINKEDIN PROFILE [15+ PROVEN TIPS]](https://cultivatedculture.com/linkedin-profile-tips/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

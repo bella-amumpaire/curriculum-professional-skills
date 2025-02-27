@@ -33,7 +33,7 @@ Please review the helpful tips below to ensure that you gain the most value from
 
 ### Project requirements
 
-- [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit). If you have followed the [LinkedIn curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md), it should do so automatically.
+- [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit). If you have followed the [LinkedIn curriculum](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md), it should do so automatically.
 - Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
@@ -44,11 +44,11 @@ Please review the helpful tips below to ensure that you gain the most value from
 
 ## Review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a review of your project.
 
 ## Submit your project
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
@@ -57,7 +57,6 @@ Now go to your Student Dashboard and submit your exercise.
 - [Video - How to use others' feedback to learn and grow | Sheila Heen | TEDx](https://www.youtube.com/watch?v=FQNbaKkYk_Q)
 - [3 LINKEDIN MISTAKES THAT COULD BE COSTING YOU JOB OFFERS](https://cultivatedculture.com/linkedin-mistakes/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -14,14 +14,14 @@ In this exercise you will look for current job openings, identify those that are
 
 ### Why is it important to select the jobs you apply for?
 
-Sending bulk job applications might often be the best way to find a job quickly, but it is not always so. As a job searcher you face the “quantity” versus “quality” dilemma: which jobs should you apply for? How much effort to invest in each job application? 
+Sending bulk job applications might often be the best way to find a job quickly, but it is not always so. As a job searcher you face the “quantity” versus “quality” dilemma: which jobs should you apply for? How much effort to invest in each job application?
 
-To make an informed decision you must: 
+To make an informed decision you must:
 
-1. Identify the job opportunities “out there” and 
-2. Analyze which ones are the best options for YOU. This means considering at the same time: 
-    - How your knowledge, skills, and personal attributes are a good fit for the role, and
-    - How that specific position helps you move ahead in your professional career.
+1. Identify the job opportunities “out there” and
+2. Analyze which ones are the best options for YOU. This means considering at the same time:
+   - How your knowledge, skills, and personal attributes are a good fit for the role, and
+   - How that specific position helps you move ahead in your professional career.
 
 Ideally a job should help you move forward toward your goals. So when you find a job opportunity that does, it’s worth it to work very carefully in each step of the job application process. But it’s also a good idea to send job applications to other openings to increase your chances of getting a job soon without spending so much time customizing your application materials. It's a balancing act.
 
@@ -45,7 +45,7 @@ You have many options for finding job opportunities: you can search online on we
 
 Many websites list job openings and specialize in certain types of jobs. Try different ones and identify those that match your interests and needs. In the article below you will find an extensive list of websites you can visit to find jobs.
 
-- [Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
+- [Where do I find jobs to apply to?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
 
 **Apply what you've learned**
 
@@ -57,22 +57,22 @@ Not all job postings are created equal! Some might be a better fit than others. 
 
 Read the following article to refresh your memory on the information that will help you make this decision:
 
-- [Pointers to consider when searching for a good-fitting job](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
+- [Pointers to consider when searching for a good-fitting job](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
 
 **Apply what you've learned**
 
 1. Read the description of the job openings you found in the step above carefully and look for the pointers described in the article. Register your findings in Section 1, Table A of [this template](https://docs.google.com/document/d/1bz0Ute5_3onmFAM-coVFM7zRX4MoC-XZwq6xRSGN2E4/edit?usp=sharing).
-2. In the last two rows of the table, decide if it’s worth applying to the job and how much time and effort you will invest in customizing your application materials. 
+2. In the last two rows of the table, decide if it’s worth applying to the job and how much time and effort you will invest in customizing your application materials.
 
 ### 1.3. Creating your wishlist in your Huntr board
 
-The two tricks to efficient job searching are consistency and retrospection. First you need to apply to a consistent amount of jobs every week and you need to be able to track the status of each job you apply to. Then over time you need to see how many jobs you applied to, at which stage of the hiring process you dropped off, and how you can improve bit by bit to get to your final offer. 
+The two tricks to efficient job searching are consistency and retrospection. First you need to apply to a consistent amount of jobs every week and you need to be able to track the status of each job you apply to. Then over time you need to see how many jobs you applied to, at which stage of the hiring process you dropped off, and how you can improve bit by bit to get to your final offer.
 
 This is where Huntr comes in to help you. Huntr is an online platform that helps you stay consistent with your job search and allows you to retrospect carefully on every phase of your job search so that you can see what is working for you, what is not, and make improvements.
 
 In Huntr boards you can register the jobs you find, create a “wishlist” of those you want to apply for, identify those you have “applied for,” and then move them if you get invited to interviews.
 
-Refresh your memory about [Using Huntr to track your job search](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md).
+Refresh your memory about [Using Huntr to track your job search](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md).
 
 **Apply what you've learned**
 
@@ -84,10 +84,10 @@ Refresh your memory about [Using Huntr to track your job search](https://github.
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

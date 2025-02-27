@@ -74,6 +74,7 @@ The Experience section is the most important part of your LinkedIn profile. Here
 [Create an achievements-focused Experience section](create-an-achievements-focused-experience-section.md)
 
 You will have to add your different work experiences, one by one. Follow these steps:
+
 - Click on your profile picture at the upper right corner.
 - Click on "Add profile section".
 - Select "Add position" from the "Core" section.
@@ -82,9 +83,9 @@ You will have to add your different work experiences, one by one. Follow these s
 
 **Apply what you've learned**
 
-1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn. 
+1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist above** to verify that your Experience section is good to go.
-3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Fill in the Education section
 
@@ -98,7 +99,7 @@ You're more than halfway done with your LinkedIn profile, and we'll continue our
 
 1. Take 5 minutes to copy/paste your education from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Add keywords to your LinkedIn by completing the Skills section
 
@@ -154,7 +155,7 @@ If you already have volunteer experience, though (either at Microverse or anyone
 
 1. If relevant, take 5 minutes to copy/paste your volunteer experience from your resume into LinkedIn.
 2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## **Should you include other sections from the Recommended or Additional options?**
 
@@ -162,7 +163,7 @@ Sure! LinkedIn offers several types of blocks that can be added to your profile,
 
 Two more things to keep in mind:
 
-- **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
+- **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, _Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile_).
 - Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to a Publication section that you can find in the Additional options.
 
 **Apply what you've learned**
@@ -171,9 +172,9 @@ Two more things to keep in mind:
 
 ## Follow peers, companies or groups for your Interests section
 
-In LinkedIn, you can follow people, companies or groups that will be included in your Interests section, which is generally **a section for you, not for hiring managers**. Your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, so choosing your Interests wisely can help if you plan on networking within certain companies or industries. 
+In LinkedIn, you can follow people, companies or groups that will be included in your Interests section, which is generally **a section for you, not for hiring managers**. Your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, so choosing your Interests wisely can help if you plan on networking within certain companies or industries.
 
-If you created your LinkedIn account recently, you were probably prompted to select peers, companies, and organizations for this section. Now, you can add others by choosing to follow them. 
+If you created your LinkedIn account recently, you were probably prompted to select peers, companies, and organizations for this section. Now, you can add others by choosing to follow them.
 
 For this assignment, it's optional to follow others, but highly recommended.
 
@@ -209,26 +210,24 @@ LinkedIn is a great place to start networking. It includes an Activity section w
 
 ## Peer Review
 
-In a few days, you will see an activity scheduled for a peer review of your GitHub profile. 
+In a few days, you will see an activity scheduled for a peer review of your GitHub profile.
 You will check the submission of your learning partner and you will receive feedback from them.
 After that, you will have time to implement all the suggested changes.
 When making changes, analyze your peer's feedback carefully and integrate all the changes requested.
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
-
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [How to build an amazing LinkedIn profile: 15 proven tips](https://cultivatedculture.com/linkedin-profile-tips/)
 - [3 LinkedIn mistakes that could be costing you job offers](https://cultivatedculture.com/linkedin-mistakes/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

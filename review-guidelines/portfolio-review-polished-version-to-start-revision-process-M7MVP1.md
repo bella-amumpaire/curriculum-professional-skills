@@ -1,25 +1,24 @@
 # Review polished version of portfolio to start rounds of revision with job searchers
 
 ## Description
-Job searchers will dedicate one whole week to review their portfolio with feedback from their career coach. In this exercise, the students polish the latest version of their portfolio and submit it to start the process. In this review, you should do an in-depth revision of the portfolio and send comments so that they can work on them throughout the week. Please request all changes necessary. 
+
+Job searchers will dedicate one whole week to review their portfolio with feedback from their career coach. In this exercise, the students polish the latest version of their portfolio and submit it to start the process. In this review, you should do an in-depth revision of the portfolio and send comments so that they can work on them throughout the week. Please request all changes necessary.
 
 ## Get ready for the review
 
 - ❗️Open the [rubric and worksheet they use to assess their portfolio](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit#heading=h.49ezt9nvjk6d)
-- These are the [instructions they receive to polish their portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-portfolio-M7MVP1.md).
+- These are the [instructions they receive to polish their portfolio](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-portfolio-M7MVP1.md).
 - This is the [sneak peak to the project where they create their portfolio](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/sneak_peek.md) in Module 1 - The Portal.
-
 
 ## Mandatory requirements
 
-
 ### General requirements
 
-The portfolio should: 
+The portfolio should:
+
 - Showcase the job searcher's skills and knowledge in an attractive, simple and compelling way.
 - Include description, screenshots and links to the code of complex projects.
-- Present contact information and links to professional profiles. 
-
+- Present contact information and links to professional profiles.
 
 ### Project requirements
 
@@ -45,7 +44,7 @@ The portfolio should:
 
 **Projects**
 
-3.1 - Portfolio prioritizes projects and the section is quick to find within one page scroll. 
+3.1 - Portfolio prioritizes projects and the section is quick to find within one page scroll.
 
 3.2 - A project that showcases Ruby on Rails is included.
 
@@ -85,7 +84,7 @@ The portfolio should:
 
 **Spelling and grammar**
 
-6.1 - The text conveys information clearly. 
+6.1 - The text conveys information clearly.
 
 6.2 - Portfolio contains no spelling errors.
 

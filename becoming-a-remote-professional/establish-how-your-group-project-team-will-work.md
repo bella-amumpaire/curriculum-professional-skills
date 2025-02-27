@@ -10,7 +10,7 @@
 
 ## Description
 
-In this lesson, you will assign the roles between team members and define work agreements as a team to ensure the capstone projects go smoothly. 
+In this lesson, you will assign the roles between team members and define work agreements as a team to ensure the capstone projects go smoothly.
 
 ### Why is establishing how your group project team will work important?
 
@@ -25,24 +25,24 @@ Teamwork can make the final project better for several reasons; different streng
 
 **Learn more about different group roles:**
 
-- [Refresh on the different types of roles in larger group work.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/different-roles-in-larger-group-work.md) (briefly scan through this for no longer than a few minutes)
-- [Refresh on the different DISC types.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/morning-session-communication-through-conflict-takes-practice-part-2.md) (briefly scan through this for no longer than a few minutes)
-- [Connecting the DiSC types with the different roles in larger group work.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/connecting-the-disc-types-with-the-different-roles-in-larger-group-work.md)
+- [Refresh on the different types of roles in larger group work.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/different-roles-in-larger-group-work.md) (briefly scan through this for no longer than a few minutes)
+- [Refresh on the different DISC types.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/morning-session-communication-through-conflict-takes-practice-part-2.md) (briefly scan through this for no longer than a few minutes)
+- [Connecting the DiSC types with the different roles in larger group work.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/connecting-the-disc-types-with-the-different-roles-in-larger-group-work.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Open the template and follow the directions for the exercise.
-2. Spend 15 minutes assigning the different roles. 
+2. Spend 15 minutes assigning the different roles.
 3. Spend 20 minutes defining the group agreements.
 
 **Exercise template to copy:** [Working agreements and defining roles for group projects.](https://docs.google.com/document/d/1X59lObOWxB-wYsVgqJhTJKsLGraxZx6jpb23qZZxI7E/edit#)
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.

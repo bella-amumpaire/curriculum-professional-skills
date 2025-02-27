@@ -6,7 +6,7 @@
 
 Today you can submit one of your application materials for review. This submission is optional for job searchers that need to make some changes to an application material before continuing to apply to jobs.
 
-❗️ **Note: This week coaches will not review application materials submitted through the Dashboard.** 
+❗️ **Note: This week coaches will not review application materials submitted through the Dashboard.**
 
 Please contact your coach if you need them to review one of your documents.
 
@@ -16,13 +16,12 @@ Because feedback is a gift! Sharing your application material with your career c
 
 ### Refreshers on how to update your application materials
 
-- [Update and polish your LinkedIn profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-LindekIn-page.md)
-- [Update and refine your portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-portfolio.md)
-- [Strengthen and update your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-strenghten-and-revamp-your-resume.md)
-- [Update and refine your GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-refine-your-GitHub-profile.md)
-- [Creating your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
-- [Create a cover letter for your job application](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-step-3-create-a-cover-letter.md)
-
+- [Update and polish your LinkedIn profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-LindekIn-page.md)
+- [Update and refine your portfolio](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-portfolio.md)
+- [Strengthen and update your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-strenghten-and-revamp-your-resume.md)
+- [Update and refine your GitHub profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-refine-your-GitHub-profile.md)
+- [Creating your Wellfound profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create a cover letter for your job application](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR2-step-3-create-a-cover-letter.md)
 
 ## Exercise
 

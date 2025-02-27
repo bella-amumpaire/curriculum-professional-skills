@@ -21,7 +21,7 @@ The cover letter has the potential to be one of the most powerful documents in a
 
 ## Using project reviewer feedback to improve your cover letter
 
-You know the drill: you'll now go through the process of revising your cover letter based on the feedback that you received from your project reviewer. As we've said multiple times, good feedback is invaluable; it's very difficult to accurately identify all of the weaknesses in our own work, so second (and third) opinions can make an incredibly powerful difference in the strength of your cover letter.  Now that you've received feedback from project reviewers, you will use that feedback to identify areas of improvement in your cover letter.
+You know the drill: you'll now go through the process of revising your cover letter based on the feedback that you received from your project reviewer. As we've said multiple times, good feedback is invaluable; it's very difficult to accurately identify all of the weaknesses in our own work, so second (and third) opinions can make an incredibly powerful difference in the strength of your cover letter. Now that you've received feedback from project reviewers, you will use that feedback to identify areas of improvement in your cover letter.
 
 If needed, please review the tips below to ensure that you gain the most value possible from the feedback you've receive, and that you're able to implement the feedback efficiently and correctly.
 
@@ -33,12 +33,12 @@ If needed, please review the tips below to ensure that you gain the most value p
 
 ### Project requirements
 
-- [Make sure that your cover letter meets every requirement of the cover letter rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit). If you have followed the [cover letter curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md), it should do so automatically. 
+- [Make sure that your cover letter meets every requirement of the cover letter rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit). If you have followed the [cover letter curriculum](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md), it should do so automatically.
 - Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 - Carefully review **all feedback** given to you by your project reviewer, including both written feedback, comments written in the Google Doc, and verbal feedback they may have given over video platforms like Loom.
 - Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include a comment in your Google Doc explaining why. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
@@ -46,11 +46,11 @@ If needed, please review the tips below to ensure that you gain the most value p
 
 ## Review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a review of your project.
 
 ## Submit your project
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
@@ -59,7 +59,6 @@ Now go to your Student Dashboard and submit your exercise.
 - [Video - How to use others' feedback to learn and grow | Sheila Heen | TEDx](https://www.youtube.com/watch?v=FQNbaKkYk_Q)
 - [Ask a Manager: Cover Letter Archives](https://www.askamanager.org/category/cover-letters)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

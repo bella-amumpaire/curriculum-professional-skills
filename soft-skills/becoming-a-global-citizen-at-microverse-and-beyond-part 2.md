@@ -9,11 +9,11 @@
 
 ## Using a Code of Conduct to respect differences
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
+_Read through the following section on your own while staying on the Zoom call with your group._
 
-*Spend 10 minutes on this section individually*
+_Spend 10 minutes on this section individually_
 
-As mentioned in [Becoming a global citizen at Microverse and beyond  (part 1)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/becoming-a-global-citizen-at-microverse-and-beyond-part1.md), the code of conduct helps everyone at Microverse understand how they are expected to treat each other. Take a look back at the *[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-)* and your own previous exercise to remember some of the expected and unacceptable behaviors mentioned. 
+As mentioned in [Becoming a global citizen at Microverse and beyond (part 1)](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/becoming-a-global-citizen-at-microverse-and-beyond-part1.md), the code of conduct helps everyone at Microverse understand how they are expected to treat each other. Take a look back at the _[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-)_ and your own previous exercise to remember some of the expected and unacceptable behaviors mentioned.
 
 ### Why is it important to recognizing and addressing unacceptable behavior
 
@@ -34,12 +34,12 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
-*Spend 15 minutes working on this exercise.*
+_Spend 15 minutes working on this exercise._
 
-1. Open the *[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-).*
-2. Briefly review the sections about *Unacceptable Behaviors* and *The Ethical Coder*.
+1. Open the _[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-)._
+2. Briefly review the sections about _Unacceptable Behaviors_ and _The Ethical Coder_.
 3. Open the exercise template and complete the first part of the exercise individually.
 4. Then, complete part 2 of the exercise with your team, and discuss your different responses.
 
@@ -47,7 +47,7 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [15 ways to give negative feedback, positively (incl. examples)](https://positivepsychology.com/negative-feedback/).
 - [Culture awareness in the workplace](https://smallbusiness.chron.com/culture-awareness-workplace-737.html).
@@ -55,8 +55,6 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 - [Code of Conduct and ethics for employees](https://www.youtube.com/watch?v=-gRLHf6ZBM4).
 - [Techniques to positive criticizing](https://smallbusiness.chron.com/techniques-positive-criticizing-73087.html).
 
-
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

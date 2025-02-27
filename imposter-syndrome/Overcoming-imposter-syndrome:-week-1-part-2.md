@@ -20,21 +20,21 @@ In the following videos, you will see experienced people who explain their exper
 
 **Guiding questions:**
 
-*The people in the video will share their experience with imposter syndrome. Think for two to three minutes about the following questions before you watch the videos:*
+_The people in the video will share their experience with imposter syndrome. Think for two to three minutes about the following questions before you watch the videos:_
 
 - How does imposter syndrome manifest itself in the people in the videos? What kind of thoughts did they experience because of imposter syndrome?
 - What are the strategies that the people in the example used to overcome imposter syndrome?
 
 **Learn more about how imposter syndrome impacts other people:**
 
-*Have one person share their screen and watch these videos together as a group.*
+_Have one person share their screen and watch these videos together as a group._
 
 - [Ariel Camus, CEO at Microverse](https://www.loom.com/share/617c2732c1054cdba2f22995bb96a6ac)
 - [Anthony Ngene, software developer at Google](https://drive.google.com/file/d/1ojvFUaTASAgLpZxN_AJVLDJDICCZ2Z5U/view?usp=sharing)
 
 ### Group discussion
 
-*Spend 10 minutes discussing the following questions:*
+_Spend 10 minutes discussing the following questions:_
 
 - How does it make you feel to hear all these people's experiences with imposter syndrome?
 - How did imposter syndrome show up for the people in the video?
@@ -43,10 +43,10 @@ In the following videos, you will see experienced people who explain their exper
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [The Stoic Art of Negative Visualization](https://dailystoic.com/premortem/)
 - [How 'Negative Visualization' Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Negative visualization](https://medium.com/swlh/the-importance-of-negative-visualization-ae89c41b377b#:~:text=Negative%20visualization%20is%20a%20technique,visualize%20your%20life%20without%20them.) (This resource is avaialbe to Medium members: if you have a free account, opening it will count towards your 5 monthly articles.)
-- [Refresh the lesson: cultivating a growth mindset part 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-1.md)
-- [Refresh the lesson: cultivating a growth mindset part 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-2.md)
+- [Refresh the lesson: cultivating a growth mindset part 1](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-1.md)
+- [Refresh the lesson: cultivating a growth mindset part 2](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-2.md)

@@ -8,7 +8,7 @@
 
 ## Description
 
-In this lesson, you will refresh your understanding of behavioral interviews to prepare yourself for the peer-to-peer practice sessions we have designed to help you prepare for this kind of interview.  
+In this lesson, you will refresh your understanding of behavioral interviews to prepare yourself for the peer-to-peer practice sessions we have designed to help you prepare for this kind of interview.
 
 ### Why is it important to practice for behavioral interviews?
 
@@ -19,6 +19,7 @@ As with other skills, **practicing makes the master!** This is true, especially 
 ### How will the behavioral interview practice sessions work?
 
 These practice sessions will take place in the morning sessions. Each one will target particular aspects of behavioral interviews. We will give you detailed instructions and resources to guide you through carefully structured practice, including:
+
 - A review and discussion of essential concepts with your peers.
 - Setting up the interview.
 - Interviewing each other and providing feedback with a checklist.
@@ -26,21 +27,19 @@ These practice sessions will take place in the morning sessions. Each one will t
 
 Sometimes, the session will include moments where you prepare the answers to questions using resources available to you.
 
-
 ### How to prepare for behavioral interview practice sessions
 
-*IMPORTANT NOTE: Today, you **will not** practice your interview skills. Your current task is to refresh your knowledge about behavioral interviews, so you can smoothly participate in the peer-to-peer behavioral interview practice that will take place during morning sessions.*
+_IMPORTANT NOTE: Today, you **will not** practice your interview skills. Your current task is to refresh your knowledge about behavioral interviews, so you can smoothly participate in the peer-to-peer behavioral interview practice that will take place during morning sessions._
 
-Review the following lessons: 
+Review the following lessons:
 
-- [What to expect during behavioral interview?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-behavioral-interviews.md)
-- [SAR framework for answering behavioral interview questions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-answer-behavioral-questions-using-the-sar-format.md)
+- [What to expect during behavioral interview?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-behavioral-interviews.md)
+- [SAR framework for answering behavioral interview questions](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/how-to-answer-behavioral-questions-using-the-sar-format.md)
 
 The behavioral grid is a valuable interview tool, so we recommend you have it at hand during the sessions. If you haven’t created one, do it now.
-- [Create your behavioral grid](https://github.com/microverseinc/curriculum-professional-skills/blob/acf6cdc0a0bc81209511cded3e333d1d71c6e0b4/interview-prep/create-your-behavioral-grid.md)
 
+- [Create your behavioral grid](https://github.com/microverseinc/curriculum-professional-skills/blob/acf6cdc0a0bc81209511cded3e333d1d71c6e0b4/interview-prep/create-your-behavioral-grid.md)
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
-
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

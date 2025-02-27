@@ -18,7 +18,7 @@ Because feedback is a gift! Sharing your application material with your career c
 
 - [Make sure that your resume meets every requirement of the resume rubric.](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit)
 - [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric.](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit)
-- [Creating your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Creating your Wellfound profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 
 ## Exercise
 

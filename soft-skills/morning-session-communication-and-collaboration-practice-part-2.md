@@ -8,7 +8,7 @@
 
 ## Description
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
+_Read through the following section on your own while staying on the Zoom call with your group._
 
 **Spend 5 minutes on this section individually.**
 
@@ -16,7 +16,7 @@ In this morning session, you will review and practice techniques for dealing wit
 
 ### Why is communication and collaboration practice important?
 
-Throughout your career as a developer, you will have to work on team projects with other people. Poor collaboration (or no collaboration) threatens your project's success. Being able to communicate and collaborate with others is important especially in remote settings since the virtual distance can increase misunderstandings, conflict, and frustration. This is why you need to make sure communication is flowing well between you and the team. 
+Throughout your career as a developer, you will have to work on team projects with other people. Poor collaboration (or no collaboration) threatens your project's success. Being able to communicate and collaborate with others is important especially in remote settings since the virtual distance can increase misunderstandings, conflict, and frustration. This is why you need to make sure communication is flowing well between you and the team.
 
 ### Recognizing conflict and frustration in teamwork
 
@@ -28,7 +28,7 @@ In this exercise, we will outline the most common issues that cause conflict and
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 **Spend 25 minutes working on this exercise.**
 
@@ -41,18 +41,17 @@ In this exercise, we will outline the most common issues that cause conflict and
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [10 best practices for good team communication and collaboration](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/10-best-practices-for-good-team-communication-and-collaboration.md)
+- [10 best practices for good team communication and collaboration](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/10-best-practices-for-good-team-communication-and-collaboration.md)
 - [Effective collaboration is the secret to your software development project success](https://steelkiwi.com/blog/collaboration-is-a-key-to-project-success/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

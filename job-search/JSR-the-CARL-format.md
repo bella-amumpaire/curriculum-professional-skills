@@ -8,22 +8,21 @@
 
 ## Description
 
-In this lesson, you will learn the CARL format, an alternative framework to answer behavioral questions.  
+In this lesson, you will learn the CARL format, an alternative framework to answer behavioral questions.
 
 ### Why should you learn the CARL format?
 
-Showcasing your ability and potential to develop as a software developer is one of the crucial aspects that recruiters assess in behavioral interviews. A common mistake our career coaches have identified in Micronauts’ behavioral grid is forgetting to talk about the long-term impact of their past experiences, thus missing the opportunity to highlight their ability to learn and grow. Since CARL explicitly includes the “L” for learning, it will help you remember to consider this aspect in your stories. 
+Showcasing your ability and potential to develop as a software developer is one of the crucial aspects that recruiters assess in behavioral interviews. A common mistake our career coaches have identified in Micronauts’ behavioral grid is forgetting to talk about the long-term impact of their past experiences, thus missing the opportunity to highlight their ability to learn and grow. Since CARL explicitly includes the “L” for learning, it will help you remember to consider this aspect in your stories.
 
 ### Overview of CARL
 
 CARL considers four elements in answers to a behavioral question.
 
-![CARL elements.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/images/CARL%20elements.png)
+![CARL elements.png](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/images/CARL%20elements.png)
 
-Watch the following video where coach Sandra Lopez explains the CARL format (click the image below to load the video). 
+Watch the following video where coach Sandra Lopez explains the CARL format (click the image below to load the video).
 
 [![Watch the video](https://img.youtube.com/vi/D5BnAGNQ1OI/0.jpg)](https://www.youtube.com/watch?v=D5BnAGNQ1OI)
-
 
 **Guiding questions:**
 
@@ -55,4 +54,4 @@ Read through the following examples of behavioral grid answers using CARL. Analy
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

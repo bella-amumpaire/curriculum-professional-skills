@@ -1,16 +1,16 @@
 # How to persuasively convey accomplishments and history
 
-You previously wrote about some of your most valuable experiences when [creating your USP in an earlier lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). Now, let's learn how to refine those sentences to most persuasively showcase what you've accomplished.
+You previously wrote about some of your most valuable experiences when [creating your USP in an earlier lesson](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). Now, let's learn how to refine those sentences to most persuasively showcase what you've accomplished.
 
 We'll first take a look at a few bad examples, and explain why those examples are weak. Afterward, we'll look at stronger examples.
 
 ### Bad examples
 
-*"I just finished Microverse, where I built dozens of projects using Rails, React, and Redux."*
+_"I just finished Microverse, where I built dozens of projects using Rails, React, and Redux."_
 
-*"I worked in the sales industry for a few years before making the switch to computer engineering. Now I'm comfortable working with JavaScript, Ruby, and Rails."*
+_"I worked in the sales industry for a few years before making the switch to computer engineering. Now I'm comfortable working with JavaScript, Ruby, and Rails."_
 
-*"I worked for five years at the Ministry of Education as a software developer. Before that, I graduated from college with a degree in computer engineering."*
+_"I worked for five years at the Ministry of Education as a software developer. Before that, I graduated from college with a degree in computer engineering."_
 
 ### Why are these examples bad?
 
@@ -23,11 +23,11 @@ Here's a good rule of thumb: if a random developer across your city could write 
 
 ### Good examples
 
-*"I'm currently completing coursework at Microverse, a remote software development that allows devs from all over the world to pair-program and build projects together.  I've spent the last several months completely immersed in remote development, building everything from landing pages to Rails APIs."*
+_"I'm currently completing coursework at Microverse, a remote software development that allows devs from all over the world to pair-program and build projects together. I've spent the last several months completely immersed in remote development, building everything from landing pages to Rails APIs."_
 
-*"I began my career in the sales industry, so I'm definitely familiar with the sort of fast-paced, intense environment found at a lot of software startups. My time in sales was actually what encouraged me towards software development; I got curious about how the SaaS I was selling actually worked and signed up for an online course. I fell in love at "Hello, World.""*
+_"I began my career in the sales industry, so I'm definitely familiar with the sort of fast-paced, intense environment found at a lot of software startups. My time in sales was actually what encouraged me towards software development; I got curious about how the SaaS I was selling actually worked and signed up for an online course. I fell in love at "Hello, World.""_
 
-*"I worked for five years at the Ministry of Education as a software developer, where I was the lead developer on a team that led interactive math assessments for secondary schools in two major cities."*
+_"I worked for five years at the Ministry of Education as a software developer, where I was the lead developer on a team that led interactive math assessments for secondary schools in two major cities."_
 
 ### Why are these examples good?
 
@@ -38,6 +38,6 @@ These examples are good for two major reasons:
 
 You do not need to write something very long; the good examples above are all 1-3 sentences long. But it's important to provide enough detail that it's obvious why your history is unique, and why that history would be useful as a software developer.
 
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

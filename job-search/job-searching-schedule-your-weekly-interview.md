@@ -4,7 +4,7 @@
 
 ## Description
 
-This lesson is a kind reminder to schedule your weekly interview. 
+This lesson is a kind reminder to schedule your weekly interview.
 
 You can submit your interview report as soon as you've had your interview to share how it went.
 
@@ -14,8 +14,8 @@ Monday is a great day to get your week structured and organized. Take time now t
 
 ### Refresher on weekly interviews
 
-Weekly interviews are the best way to practice your interview skills. The link below gives you a quick refresher on the topic. 
+Weekly interviews are the best way to practice your interview skills. The link below gives you a quick refresher on the topic.
 
- **Refresh your memory on weekly interviews:**
+**Refresh your memory on weekly interviews:**
 
-- [Job Searching - Introduction to weekly interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-introduction-to-weekly-interviews.md)
+- [Job Searching - Introduction to weekly interviews](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/job-searching-introduction-to-weekly-interviews.md)

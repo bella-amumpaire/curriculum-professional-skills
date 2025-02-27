@@ -12,11 +12,12 @@ In this review, you should do an in-depth revision of the portfolio using the re
 
 ## Get ready for the review
 
-- These are the [instructions students receive to polish their portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-update-and-polish-your-portfolio.md).
+- These are the [instructions students receive to polish their portfolio](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-update-and-polish-your-portfolio.md).
 - This is the [worksheet and rubric](https://docs.google.com/document/d/1QCI3eNjdXghP_ZjNVmUZq0DO9hKovbbRp2FsAWdVVuU/edit#) students use to update their portfolio.
 - This is the [sneak peak to the project where they create their portfolio](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/sneak_peek.md) in Module 1 - The Portal.
 
 In the following videos, you can find a detailed explanation of each set of requirements in the rubric:
+
 - [Part 1: Intro & Design](https://www.loom.com/share/a0ab6fc5cb46459db6adc5401f182c34)
 - [Part 2: Content](https://www.loom.com/share/c48e7a96105d48d18023e57f728af9a4)
 - [Part 3: Interactivity](https://www.loom.com/share/6594089c064c401bbedfcf39d39d2425)

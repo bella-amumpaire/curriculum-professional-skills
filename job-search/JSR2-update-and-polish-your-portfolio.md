@@ -17,13 +17,12 @@ After you’ve upgraded your website, you will then **submit it to a career coac
 
 Your portfolio **must be approved** to complete the module successfully. You have:
 
-- **3 weeks** to go through the review process, because this activity is a module requirement. 
-- **2 rounds of reviews only**. So, study the coach's feedback carefully and **integrate all changes before re-submitting your portfolio**. 
+- **3 weeks** to go through the review process, because this activity is a module requirement.
+- **2 rounds of reviews only**. So, study the coach's feedback carefully and **integrate all changes before re-submitting your portfolio**.
 
-❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision. 
+❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision.
 
 Coaches might take up to 3 days to send you their comments and request changes.
-
 
 ## Refresher on what makes a good portfolio
 
@@ -98,8 +97,7 @@ Please note that you don't need to submit the worksheet, the link to your portfo
 
 Check this lesson if you neet a refresher on how to list and categorize your technical skills correctly.
 
-- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
-
+- [How to use correct technical terminology in application materials](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
 ---
 

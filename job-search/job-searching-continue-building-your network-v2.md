@@ -10,11 +10,11 @@ If you need information about who to network with or how to network, look at the
 
 ### Why is continuing to build your network important?
 
-You cannot build a solid professional network in one day. Creating and nurturing relationships with other people requires dedicated effort and time. First, you must identify those peers with whom you want to interact, reach out to them, and develop mutual trust and understanding. 
+You cannot build a solid professional network in one day. Creating and nurturing relationships with other people requires dedicated effort and time. First, you must identify those peers with whom you want to interact, reach out to them, and develop mutual trust and understanding.
 
 ### Networking as gardening
 
-A helpful framework for understanding the dedication and constant activities involved in networking is Greg Bahlman’s GARDNER framework. Familiarize yourself with the seven key elements of networking in the article: 
+A helpful framework for understanding the dedication and constant activities involved in networking is Greg Bahlman’s GARDNER framework. Familiarize yourself with the seven key elements of networking in the article:
 
 - [Don’t just network: become a relationship gardner](https://tribemineblog.com/dont-just-network-become-a-relationship-gardener/).
 
@@ -24,7 +24,7 @@ A helpful framework for understanding the dedication and constant activities inv
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Look at your monthly SMART networking goals and select those that you want to work on today.
 2. Open your copy of the exercise template below and identify the activities you want to perform in section 1.
@@ -34,7 +34,7 @@ A helpful framework for understanding the dedication and constant activities inv
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
@@ -48,15 +48,15 @@ Networking will seem like a shot in the dark if you don't have target companies 
 
 Another way of finding prospects for your network is by looking at your list of dream companies.
 
-**Refresher on your dream companies list:** 
+**Refresher on your dream companies list:**
 
-- [Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md).
+- [Define your dream companies](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md).
 
 Whenever you identify someone you want to contact, you can register them in this [List of networking contacts (Google Sheet)](https://docs.google.com/spreadsheets/d/1Toq6By43e3Hd6zaOZKISATp3fkdCmOERAxlZKVM7Tjk/edit?usp=sharing). Initially, you might only have some information. Don’t worry; you can complete other details as you continue researching and communicating with them.
 
 ### Different ways to network
 
-**Refresher on different ways to network.** 
+**Refresher on different ways to network.**
 
 - [LinkedIn Networking: How to network successfully on LinkedIn](https://microverse.zendesk.com/hc/en-us/articles/360050721094-How-can-I-network-successfully-on-LinkedIn-)
 - [Twitter Networking: How to use Twitter to network your way to your dream job](https://microverse.zendesk.com/hc/en-us/articles/360053070313)
@@ -65,8 +65,7 @@ Whenever you identify someone you want to contact, you can register them in this
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [How do I create a strong social media presence?](https://microverse.zendesk.com/hc/en-us/articles/360049910314-How-do-I-create-a-strong-social-media-presence-)
 - [7 networking tips for getting a job](https://www.indeed.com/career-advice/finding-a-job/how-to-network-for-a-job)
-

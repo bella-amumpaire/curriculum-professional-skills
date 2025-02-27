@@ -16,11 +16,11 @@ Because as we mentioned in Part 1, writing articles will help you get better at 
 
 ### Writing your first article using your created outline
 
-In this exercise, you are going to work on the outline of your article you created in Part 1 and expand on it to create a complete written article. 
+In this exercise, you are going to work on the outline of your article you created in Part 1 and expand on it to create a complete written article.
 
 **Learn more about how to turn your outline into a complete written article:**
 
-- [How to turn your outline into a complete written article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/how-to-turn-your-outline-into-a-complete-written-article.md)
+- [How to turn your outline into a complete written article](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/writing-articles/how-to-turn-your-outline-into-a-complete-written-article.md)
 
 ### Guidelines to follow if you write an article about Microverse.
 
@@ -47,7 +47,7 @@ In this exercise, you'll be using Medium to share your article online since it's
 
 **Learn more about sharing your article online:**
 
-- [Steps to sharing your article online](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/steps-to-sharing-your-article-online.md)
+- [Steps to sharing your article online](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/writing-articles/steps-to-sharing-your-article-online.md)
 - [Writing and publishing your story in Medium](https://help.medium.com/hc/en-us/articles/225168768-Write-a-post) - Medium is an online website for sharing your articles and blogs. This link shows you how to add and publish your story on the Medium website.
 - [Using the Medium story editor](https://help.medium.com/hc/en-us/articles/215194537) - This editor shows you the different formatting options you have in Medium and how to use them.
 - Websites offering free images - The following websites give you the option of downloading free images: [StockSnap.io](https://stocksnap.io/), [Unsplash.com](http://unsplash.com), [Flickr.com](http://www.flickr.com/), [FreeImages.com](https://www.freeimages.com/), [Pixabay.com](http://pixabay.com/)
@@ -57,26 +57,25 @@ In this exercise, you'll be using Medium to share your article online since it's
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
-1. Go to your student dashboard and open the outline of your article. This document should have the name: *"Writing an article - Part 1"*.
+1. Go to your student dashboard and open the outline of your article. This document should have the name: _"Writing an article - Part 1"_.
 2. Next, open your copy of the template below and complete all sections.
 
 **Exercise template to copy:** [Writing an article - Part 2](https://docs.google.com/document/d/1fII2fzVtwY7A5l88NhuATJTNsj1GDMSKp-w2J_nY7TM/edit)
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Examples of written technical articles by developers on Medium](https://medium.com/topic/programming)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

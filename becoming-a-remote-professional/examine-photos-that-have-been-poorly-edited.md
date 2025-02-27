@@ -8,7 +8,7 @@ We won't take a look at strong examples in this lesson, because the point of goo
 
 ![](https://cdn.filestackcontent.com/XjOB1snQYW1zB7nuNbRn)
 
-![](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/images/bad%20profile%20picture%20example%203.jpg)
+![](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/images/bad%20profile%20picture%20example%203.jpg)
 
 **Weak example 1:** The background of this photo has been blurred, but the blurring was messily done. The result appears sloppy and is not at all professional enough for sites like LinkedIn or GitHub.
 

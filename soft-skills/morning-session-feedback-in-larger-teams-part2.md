@@ -9,27 +9,27 @@
 
 ## Description
 
-*Read through the following section on your own while staying on the Zoom call with your group.*
+_Read through the following section on your own while staying on the Zoom call with your group._
 
-*Spend 5 minutes on this section individually*
+_Spend 5 minutes on this section individually_
 
 In this morning session, you will continue practicing skills to give and receive feedback in larger groups. In your final capstone, you will be questioned about your group’s feedback practices, and this activity will help you prepare for that.
 
 ### More refreshers on the fundamentals of giving feedback
 
-- [Giving constructive feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/giving-constructive-feedback.md)
+- [Giving constructive feedback](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/giving-constructive-feedback.md)
 
 ### More refreshers on the fundamentals of receiving feedback
 
-- [How can you receive feedback well?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-can-you-receive-feedback-well.md)
+- [How can you receive feedback well?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/how-can-you-receive-feedback-well.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
-**Spend 20  minutes working on this exercise.**
+**Spend 20 minutes working on this exercise.**
 
 1. Individually, open your copy of the template below.
 2. As a group, come together and complete all sections in your copy of the template.
@@ -44,6 +44,6 @@ For the last 5 minutes of the session, come together as a group and discuss the 
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.

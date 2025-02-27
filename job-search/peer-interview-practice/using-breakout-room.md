@@ -4,9 +4,9 @@
 
 ## Introduction
 
-*Watch the video and read through the following section on your own while staying on the Zoom call with your group.* 
+_Watch the video and read through the following section on your own while staying on the Zoom call with your group._
 
-To prepare for this module's morning session, today you will practice using breakout rooms on Zoom. 
+To prepare for this module's morning session, today you will practice using breakout rooms on Zoom.
 
 [![Watch the video](https://img.youtube.com/vi/fUV3gr2g744/0.jpg)](https://youtu.be/fUV3gr2g744)
 
@@ -14,7 +14,7 @@ To prepare for this module's morning session, today you will practice using brea
 
 You will begin practicing how to answer technical interview questions during morning sessions. If there are 4 or more learners in a session, you will need to work in pairs in order to practice answering as many questions as possible. So, you will use Zoom's breakout rooms that are completely separated from the main meeting session.
 
-💡 **Morning sessions will be one hour long to enable you to complete the technical interview practice.** 
+💡 **Morning sessions will be one hour long to enable you to complete the technical interview practice.**
 
 ### What are breakout rooms?
 
@@ -26,28 +26,28 @@ Breakout rooms will help you get into pairs or groups of 2 specifically for beha
 
 Click the link below and follow the steps to setup breakout rooms:
 
-[Setting up breakout rooms](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/setting-up-breakout-rooms.md)
+[Setting up breakout rooms](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/setting-up-breakout-rooms.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 **Spend 2 minutes working on this exercise.**
 
-1. Open your copy of the exercise template below and complete the sections. 
+1. Open your copy of the exercise template below and complete the sections.
 
 **Exercise template to copy:** [Job Searching morning session: Using breakout rooms for interview practice](https://docs.google.com/document/d/1w2_Rg_z3B6aKfkEVkz3tOAC3GAbluDBw2-QxB0z00eA/edit#)
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
-Now go to your Student Dashboard and submit your exercise. Remember to reach out to Student Success right away if you weren't able to access breakout rooms, as you will need this for your upcoming morning sessions. 
+Now go to your Student Dashboard and submit your exercise. Remember to reach out to Student Success right away if you weren't able to access breakout rooms, as you will need this for your upcoming morning sessions.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [A guide to managing breakout rooms](https://it.tufts.edu/guides/audio-and-virtual-conferencing-zoom/breakout-rooms)

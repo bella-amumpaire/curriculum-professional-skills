@@ -12,11 +12,11 @@ In this lesson, you will learn how to gather feedback from your mock interviewer
 
 ### Why is analyzing your performance in a mock interview important?
 
-The key to becoming really good in interviews is being able to analyze your performance after each interview, establishing what you did well and what you can improve upon, and then making changes. The first step to analyzing your performance is to gather feedback from your mock interviewer. The constructive feedback they give you will let you know what to improve for future interviews. 
+The key to becoming really good in interviews is being able to analyze your performance after each interview, establishing what you did well and what you can improve upon, and then making changes. The first step to analyzing your performance is to gather feedback from your mock interviewer. The constructive feedback they give you will let you know what to improve for future interviews.
 
 ### Gathering feedback at the end of your interview
 
- After your mock interview, we recommend that you gather feedback on your performance. The best time to do this is at the end of the interview by asking them questions. To help you get this feedback, we have created the template below with a list of questions you can use. Make sure to take notes in the template as the interviewer is giving you feedback so you can reflect on them later on.
+After your mock interview, we recommend that you gather feedback on your performance. The best time to do this is at the end of the interview by asking them questions. To help you get this feedback, we have created the template below with a list of questions you can use. Make sure to take notes in the template as the interviewer is giving you feedback so you can reflect on them later on.
 
 **Learn more about gathering feedback after your mock interview using the feedback template:**
 
@@ -28,11 +28,10 @@ Receiving constructive feedback from your mock interviewer can create feelings o
 
 The link below is a quick reminder of techniques to building a growth mindset:
 
- **A quick reminder on techniques to build a growth mindset:**
+**A quick reminder on techniques to build a growth mindset:**
 
-- [Techniques to developing a growth mindset to see failure and challenges constructively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively.md)
+- [Techniques to developing a growth mindset to see failure and challenges constructively](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively.md)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

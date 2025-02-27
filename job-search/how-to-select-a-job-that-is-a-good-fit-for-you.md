@@ -20,13 +20,13 @@ Every job posting will ask for different skills, experiences, and requirements. 
 
 **Learn more about the pointers to consider when searching for a good-fitting job:**
 
-- [Pointers to consider when finding a good-fitting job](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
+- [Pointers to consider when finding a good-fitting job](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Make sure you have read through the link above called "_Pointers to consider when finding a good-fitting job_".
 2. Open your copy of the template below and complete all sections.
@@ -35,6 +35,6 @@ Every job posting will ask for different skills, experiences, and requirements. 
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.

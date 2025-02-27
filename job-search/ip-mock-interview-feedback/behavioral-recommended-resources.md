@@ -54,7 +54,7 @@ Here are a few ways to start improving your professionalism...
 
 #### Answering behavioral skills
 
-- [The CARL format](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-the-CARL-format.md)
+- [The CARL format](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-the-CARL-format.md)
 
 #### Better time management
 

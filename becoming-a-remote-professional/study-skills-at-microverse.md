@@ -29,11 +29,11 @@ Below is a video that talks about the 5 pillars at Microverse that will allow yo
 2. **Utilize Microverse community and tools:** This means asking for help when needed and leaning on other Micronauts
    - [Microverse community and tools](utilize-microverse-community.md)
 3. **Develop your skills for learning independently:** This means being able to being able to find your own answers or knowing who to ask for if you don't.
-   - [Learning independently at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learning-independently-at-microverse.md)
+   - [Learning independently at Microverse](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learning-independently-at-microverse.md)
 
 ## Create your exercise
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 **Template to copy**: [Core Study Skills Part 3](https://docs.google.com/document/d/1xXlYnmMLwspcIpjlN0W4zrysrngat1R83WZYQDdfIMk/edit?usp=sharing)
 
@@ -53,12 +53,12 @@ Choose one of your problems and describe it to the others in your group.
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
 
-
 ## Additional materials
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-[The five pillars in the Microverse methodology](https://github.com/microverseinc/curriculum-professional-skills/blob/main/microverse/five-pillars-MV-methogology.md).
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-------
+[The five pillars in the Microverse methodology](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/microverse/five-pillars-MV-methogology.md).
+
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -8,25 +8,25 @@
 
 ## Description
 
-In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye. 
+In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye.
 
 ### Why is a strong resume so important?
 
-Your resume is arguably the most important project you'll work on during Professional Skills. Every time you submit a job application, the first thing a hiring manager looks at will likely be your resume; in other words, for most applicants, the resume is your one chance at a first impression. Your resume is going to be the main reason whether you get invited to interviews or you don't. Unfortunately, most resumes are badly written, and most resumes therefore automatically end up in the "rejection" pile. 
+Your resume is arguably the most important project you'll work on during Professional Skills. Every time you submit a job application, the first thing a hiring manager looks at will likely be your resume; in other words, for most applicants, the resume is your one chance at a first impression. Your resume is going to be the main reason whether you get invited to interviews or you don't. Unfortunately, most resumes are badly written, and most resumes therefore automatically end up in the "rejection" pile.
 
 This project will walk you through **how to write a resume designed to attract a hiring manager's attention, even if you don't have prior software development work experience**. This will be your first version, so don't worry about getting it perfect this round. You will get feedback from your peer that you can use to improve it. Also, later on, when you are job searching, you will polish your resume with the support of a career coach.
 
-[Learn about the three main components of a strong resume (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
-
+[Learn about the three main components of a strong resume (video lesson)](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
 
 ### Project Setup
 
 1. Choose one of the ATS-compatible and content-efficient resume templates below. You will be able to make changes to these resumes, such as by choosing new fonts and colors or by reorganizing sections as needed, but you **must choose one of these templates. Note:** you **do not have Edit access** to these files. You will need to **make a copy** to your own Google Drive so you can edit your own resume.
-    - [Template 1](https://docs.google.com/document/d/1isShs6xwmLqRoBjsmDgMq1SBXkvd0GcKSOwpI4rAboE/edit?usp=sharing): Traditional, corporate. Single column. Good for students with minimal experience.
-    - [Template 2](https://docs.google.com/document/d/1iz_P3dBX787ABfm_r7I9xR8bQa5Wb8hlRkHUiwI_VAg/edit?usp=sharing): Modern, easy to read. Single column. Good for students with minimal experience.
-    - [Template 3](https://docs.google.com/document/d/1kmsNiP_E-NUCPMpw2Tq8U2cxEIeI0JEECnagSEdlkjw/edit?usp=sharing): Modern and professional. Single column.
-    - [Template 4](https://docs.google.com/document/d/1kWikoIDAKUK1SBeEctIHVj6zpaVDsDcDzjXGU_JI6fo/edit?usp=sharing): Traditional, corporate. Two columns. Inspired by [Serif](https://docs.google.com/document/u/0/?ftv=1&tgif=c).
-    - [Template 5](https://docs.google.com/document/d/1jMxmTpC1kZT2F6wcyXeM_0NEdhuWbRhYeYUSaP0qNAk/edit?usp=sharing): Traditional, corporate, confident. Two columns.
+
+   - [Template 1](https://docs.google.com/document/d/1isShs6xwmLqRoBjsmDgMq1SBXkvd0GcKSOwpI4rAboE/edit?usp=sharing): Traditional, corporate. Single column. Good for students with minimal experience.
+   - [Template 2](https://docs.google.com/document/d/1iz_P3dBX787ABfm_r7I9xR8bQa5Wb8hlRkHUiwI_VAg/edit?usp=sharing): Modern, easy to read. Single column. Good for students with minimal experience.
+   - [Template 3](https://docs.google.com/document/d/1kmsNiP_E-NUCPMpw2Tq8U2cxEIeI0JEECnagSEdlkjw/edit?usp=sharing): Modern and professional. Single column.
+   - [Template 4](https://docs.google.com/document/d/1kWikoIDAKUK1SBeEctIHVj6zpaVDsDcDzjXGU_JI6fo/edit?usp=sharing): Traditional, corporate. Two columns. Inspired by [Serif](https://docs.google.com/document/u/0/?ftv=1&tgif=c).
+   - [Template 5](https://docs.google.com/document/d/1jMxmTpC1kZT2F6wcyXeM_0NEdhuWbRhYeYUSaP0qNAk/edit?usp=sharing): Traditional, corporate, confident. Two columns.
 
 2. Build the resume in Google Docs. This will allow project reviewers to leave comments and suggestions directly on the document. If you would later like to save your document in another file format (such as a .pdf), Google Docs allows you to export files using multiple file formats.
 
@@ -38,7 +38,7 @@ Your resume header **is a short way to guide hiring managers to your portfolio, 
 
 **Learn more about how to create an effective and space-efficient header:**
 
-[Writing a resume header](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/writing-a-resume-header.md)
+[Writing a resume header](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/writing-a-resume-header.md)
 
 **Apply what you've learned**
 
@@ -50,7 +50,7 @@ The professional summary (or profile) is a 2-3 sentence-long section that briefl
 
 **Learn more about the professional summary and whether to include one:**
 
-[Crafting a professional summary](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/crafting-a-professional-summary.md)
+[Crafting a professional summary](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/crafting-a-professional-summary.md)
 
 **Apply what you've learned**
 
@@ -62,7 +62,7 @@ The content you prioritize depends on your experience. Your most persuasive cont
 
 **Learn more about how to organize your resume for best effect:**
 
-[Organizing the content of your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/organizing-the-content-of-your-resume.md)
+[Organizing the content of your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/organizing-the-content-of-your-resume.md)
 
 **Apply what you've learned**
 
@@ -75,7 +75,7 @@ The Skills section may be short, but it's also a section that is prone to weakne
 
 **Learn more about what to include in the Skills section of your resume:**
 
-[Curating the Skills section of your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/curating-the-skills-section-of-your-resume.md)
+[Curating the Skills section of your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/curating-the-skills-section-of-your-resume.md)
 
 **Apply what you've learned**
 
@@ -87,9 +87,9 @@ The Experience section of your resume is where hiring managers will ideally spen
 
 **Learn more about how to decide which experiences belong on your resume:**
 
-[Choosing the experiences and achievements to showcase on your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/choosing-the-experiences-and-achievements-to-showcase-on-your-resume.md)
+[Choosing the experiences and achievements to showcase on your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/choosing-the-experiences-and-achievements-to-showcase-on-your-resume.md)
 
-[Phrasing and framing your achievements so you stand out among other applicants](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/phrasing-and-framing-your-achievements-so-you-stand-out-among-other-applicants.md)
+[Phrasing and framing your achievements so you stand out among other applicants](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/phrasing-and-framing-your-achievements-so-you-stand-out-among-other-applicants.md)
 
 **Apply what you've learned**
 
@@ -103,14 +103,14 @@ The "Other Experience" section is an optional section that can include non-work 
 
 **Learn more about the "Other Experience" section:**
 
-[Deciding what to highlight in the "Other Experience" section](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/deciding-what-to-highlight-in-the-other-experience-section.md)
+[Deciding what to highlight in the "Other Experience" section](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/deciding-what-to-highlight-in-the-other-experience-section.md)
 
 **Apply what you've learned**
 
 1. Decide whether to add an "Other Experience" section.
 2. If so, take 5-10 minutes to identify which experiences to list in this section.
 3. If so, take 5-10 minutes to identify which achievements to list for each experience.
-4. Take up to 25 minutes to rewrite your achievements using the formulas in the "Experience" section link. 
+4. Take up to 25 minutes to rewrite your achievements using the formulas in the "Experience" section link.
 
 ## Learn about the optional (but recommended) Projects section
 
@@ -118,7 +118,7 @@ The Projects Section is technically optional, but many students would benefit fr
 
 **Learn more about the Projects section of your resume:**
 
-[Determining what to include in the optional Projects section](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/determining-what-to-include-in-the-optional-projects-section.md)
+[Determining what to include in the optional Projects section](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/determining-what-to-include-in-the-optional-projects-section.md)
 
 **Apply what you've learned**
 
@@ -134,13 +134,13 @@ Every resume should have an Education section, even if you never completed a for
 
 **Learn more about creating a strong Education section in your resume:**
 
-[Showcasing your educational achievements in your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/showcasing-your-educational-achievements-in-your-resume.md)
+[Showcasing your educational achievements in your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/showcasing-your-educational-achievements-in-your-resume.md)
 
 **Apply what you've learned**
 
 1. Take 2-3 minutes to identify which education experiences to list.
 2. Take 5-10 minutes to add your education experiences to your resume.
-3. Take 15-20 minutes to rewrite educational achievements using the formulas in the "Experience" section link. 
+3. Take 15-20 minutes to rewrite educational achievements using the formulas in the "Experience" section link.
 
 ## Maintain grammatical consistency in your resume
 
@@ -148,11 +148,11 @@ Grammatical consistency simply means that if you use one grammatical format for 
 
 **Learn more about grammatical consistency in your resume:**
 
-[Ensuring your resume seems polished with grammatical consistency](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/ensuring-your-resume-seems-polished-with-grammatical-consistency.md)
+[Ensuring your resume seems polished with grammatical consistency](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/ensuring-your-resume-seems-polished-with-grammatical-consistency.md)
 
 **Apply what you've learned**
 
-1. Take 10-15 minutes to review your resume closely to check for grammatical consistency. 
+1. Take 10-15 minutes to review your resume closely to check for grammatical consistency.
 
 ## Maintain design consistency in your resume
 
@@ -162,11 +162,11 @@ All of the Microverse-verified templates already have design consistency, so if 
 
 **Learn more about design consistency in your resume:**
 
-[Displaying your attention to detail with design consistency](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/displaying-your-attention-to-detail-with-design-consistency.md)
+[Displaying your attention to detail with design consistency](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/displaying-your-attention-to-detail-with-design-consistency.md)
 
 **Apply what you've learned**
 
-1. Take 10-15 minutes to review your resume closely to check for design consistency. 
+1. Take 10-15 minutes to review your resume closely to check for design consistency.
 
 ## Ensure your resume pays attention to spelling, grammar, tense, and clarity
 
@@ -174,7 +174,7 @@ Proper grammar, spelling, and sentence clarity are essential not only to demonst
 
 **Learn more about how to polish your resume:**
 
-[**Displaying attention to detail and English ability by reducing errors**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/displaying-attention-to-detail-and-english-ability-by-reducing-errors.md)
+[**Displaying attention to detail and English ability by reducing errors**](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/displaying-attention-to-detail-and-english-ability-by-reducing-errors.md)
 
 **Apply what you've learned**
 
@@ -188,7 +188,7 @@ Proper grammar, spelling, and sentence clarity are essential not only to demonst
 
 ### Submission Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. You have used one of the resume templates in the lesson above.
 2. Your resume is a Google Doc.
@@ -196,25 +196,23 @@ Proper grammar, spelling, and sentence clarity are essential not only to demonst
 
 ## Peer Review
 
-In a few days, you will see an activity scheduled for a peer review of your GitHub profile. 
+In a few days, you will see an activity scheduled for a peer review of your GitHub profile.
 You will check the submission of your learning partner and you will receive feedback from them.
 After that, you will have time to implement all the suggested changes.
 When making changes, analyze your peer's feedback carefully and integrate all the changes requested.
 
-
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Ask a Manager: Resume Archives](https://www.askamanager.org/category/resumes)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

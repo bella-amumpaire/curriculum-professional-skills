@@ -7,7 +7,7 @@ During a week, job searchers will refine their Wellfound profile with feedback f
 ## Get ready for the review
 
 - ❗️[Open the scoring rubric](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
-- This is the [activity with instructions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-angellist-profile-MVP2.md).
+- This is the [activity with instructions](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-angellist-profile-MVP2.md).
 - This is the [worksheet they used to assess their profile](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#%E2%80%8B%E2%80%8B).
 
 ## Mandatory Requirements

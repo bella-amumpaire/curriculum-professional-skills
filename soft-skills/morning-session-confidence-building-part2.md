@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The importance of this lesson is to learn the required skills in recognizing low-self esteem and maintaining confidence in the workplace. 
+The importance of this lesson is to learn the required skills in recognizing low-self esteem and maintaining confidence in the workplace.
 
 ### Why is confidence-building important?
 
@@ -18,7 +18,7 @@ It's not always easy to be confident in yourself, particularly if you're natural
 
 ### Building self-confidence
 
-*Read through this next section individually for five minutes, but stay on the Zoom call with your group.*
+_Read through this next section individually for five minutes, but stay on the Zoom call with your group._
 Use this topic to question and recognize your blockers relating to confidence and low-self esteem, while learning the confidence-building strategies to overcome them.
 
 **Guiding questions:**
@@ -29,13 +29,13 @@ Use this topic to question and recognize your blockers relating to confidence an
 
 **Learn more about building self-confidence:**
 
-- [Building self-confidence](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/building-self-confidence.md)
+- [Building self-confidence](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/building-self-confidence.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 **Individual Exercise** - Do this exercise individually for 10 minutes, but stay on the Zoom call with your group.
 Spend 10 minutes in silence filling out Part 1. If you have not completed the task after 10 minutes, you should still move on to the next part of the exercise. If everyone is finished before 10 minutes, you can start discussing earlier.

@@ -1,10 +1,12 @@
 # Revisiting the salary question
 
-____
-**‼️ Note from the curriculum team 😃** 
+---
+
+**‼️ Note from the curriculum team 😃**
 
 This activity was included twice by mistake. If it's the second time you see it, simply mark it as complete in your Dashboard. Sorry!
-____
+
+---
 
 ## Learning objectives
 
@@ -27,28 +29,28 @@ Salaries are defined by a combination of factors such as the knowledge and skill
 These are the steps to follow:
 
 1. Read the job posting carefully and identify the:
-    - Location
-    - Knowledge and skills required
-    - Experience
-    - Functions and responsibilities
+   - Location
+   - Knowledge and skills required
+   - Experience
+   - Functions and responsibilities
 2. Find if the company has established a salary range for the position.
 3. Do some research about current salaries for similar positions:
-    - Set the regional filters
-    - For remote companies, use the country where the company is located
-    - Use tools such as [Glassdoor.com](http://Glassdoor.com), [Salary.com](https://www.salary.com/), [Clockify's Hourly Rate Calculator](https://clockify.me/hourly-rate-calculator), etc
+   - Set the regional filters
+   - For remote companies, use the country where the company is located
+   - Use tools such as [Glassdoor.com](http://Glassdoor.com), [Salary.com](https://www.salary.com/), [Clockify's Hourly Rate Calculator](https://clockify.me/hourly-rate-calculator), etc
 4. Identify the lowest and the highest salaries paid currently to determine the range.
-5. Analyze your financial needs and adjust the range you identified. For example, the lowest salary might not be enough for you, so increase it to meet your minimum acceptable income. 
+5. Analyze your financial needs and adjust the range you identified. For example, the lowest salary might not be enough for you, so increase it to meet your minimum acceptable income.
 
 ### Some important tips
 
 - Write a phrase to present your salary expectations and practice reading it out loud to others. This is an example:
-     *“Since I am new to the world of web development, I had to do some salary research and I am expecting something in the range of X to Y, depending on if the position is contract or permanent.”*
+  _“Since I am new to the world of web development, I had to do some salary research and I am expecting something in the range of X to Y, depending on if the position is contract or permanent.”_
 - If you feel uncomfortable and don’t want to answer the question, you can avoid it by making reference to other professional priorities such as:
-     *“I am flexible because right now I'm focusing more on opportunities to learn and grow with solid mentorship.”
-     “My current priority is finding a role and company that offers a culture that is the right fit for me.”
-     “Through my research, I have discovered the average market salary is around X. Would you be willing to share with me if the pay range for this role matches the average?”*
+  _“I am flexible because right now I'm focusing more on opportunities to learn and grow with solid mentorship.”
+  “My current priority is finding a role and company that offers a culture that is the right fit for me.”
+  “Through my research, I have discovered the average market salary is around X. Would you be willing to share with me if the pay range for this role matches the average?”_
 - A recruiter may ask about your previous salary. Try to dodge it graciously so that it’s not used as a reference to define the salary they offer you. You can say something like:
-     *“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I expect a salary in the range of X to Y.”*
+  _“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I expect a salary in the range of X to Y.”_
 
 ## Additional information and support
 
@@ -56,7 +58,7 @@ Microverse career coaches can help you define and negotiate your salary. In the 
 
 Refer to the following lesson if you want more in-depth information about defining your salary expectations:
 
-- [Coming up with salary baselines](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/coming-up-with-salary-baselines.md)
+- [Coming up with salary baselines](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/coming-up-with-salary-baselines.md)
 
 ## Exercise
 
@@ -74,10 +76,10 @@ Define the salary range for the job position that you have selected to apply to 
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

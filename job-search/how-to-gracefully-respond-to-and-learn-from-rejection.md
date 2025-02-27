@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The purpose of this lesson is to share the importance and guides to gracefully responding to and learning from a rejection message or email.  
+The purpose of this lesson is to share the importance and guides to gracefully responding to and learning from a rejection message or email.
 
 ### Why is gracefully responding to and learning from rejection important?
 
@@ -26,15 +26,15 @@ Guiding questions:
 
 Learn more about responding to and learning from rejection:
 
-[How to gracefully respond to rejection](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-gracefully-respond-to-rejection.md)
+[How to gracefully respond to rejection](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-gracefully-respond-to-rejection.md)
 
 ## Exercise
 
-*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
+_IMPORTANT NOTE: Read **all** instructions before you start this exercise._
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 - You’ve just received a rejection email after two interviews with an international remote company. Draft a message requesting to connect with the hiring manager or department leader on LinkedIn—making sure to include a brief and personalized message along with your invitation about how much you enjoyed meeting him or her and mentioning that you’d love to stay in touch.
 
@@ -47,12 +47,11 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [How to Respond to a Job Rejection Email (Indeed)](https://www.indeed.com/career-advice/finding-a-job/how-to-respond-to-a-job-rejection-email)
 - [How to Respond to a Job Rejection Email (The balance careers)](https://www.thebalancecareers.com/follow-up-letter-example-rejected-by-company-2060752)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

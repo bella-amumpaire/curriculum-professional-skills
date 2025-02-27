@@ -8,11 +8,11 @@
 
 ## Introduction
 
-The purpose of this lesson is to help you draft a list of dream companies you can refine along your Microverse program until job search. 
+The purpose of this lesson is to help you draft a list of dream companies you can refine along your Microverse program until job search.
 
 ### Why is drafting a list of dream companies important?
 
-At some point in their career, everyone has a dream company they'd love to work for. If there are companies that you'd be thrilled to work for, make a habit of keeping them under your radar - and getting on theirs - before you begin applying to these companies. Keeping and refining a list can help you with a job search strategy and networking efforts. 
+At some point in their career, everyone has a dream company they'd love to work for. If there are companies that you'd be thrilled to work for, make a habit of keeping them under your radar - and getting on theirs - before you begin applying to these companies. Keeping and refining a list can help you with a job search strategy and networking efforts.
 
 ### Drafting a list of dream companies
 
@@ -25,17 +25,17 @@ While going through a program like the Microverse Program and launching a tech c
 
 Learn more about drafting your dream company wishlist, and tips on how to get hired by your dream company:
 
-[Drafting a list of your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/drafting-a-list-of-your-dream-companies.md)
+[Drafting a list of your dream companies](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/drafting-a-list-of-your-dream-companies.md)
 
-[How to get hired by your dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
+[How to get hired by your dream company](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
-From your current knowledge of drafting dream companies to work for, use this activity to create your dream companies' wishlist. 
+From your current knowledge of drafting dream companies to work for, use this activity to create your dream companies' wishlist.
 
 **Exercise template to copy:** [Dream companies' wishlist assessment](https://docs.google.com/document/d/1KoFRY0OnmYQUP3QewaUn7oU-vpf_Xj4ed-ka_5NPN4E/edit?usp=sharing)
 
@@ -46,12 +46,11 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [The Ultimate Guide to Researching a Company Pre-Interview](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
 - [How to Ask for an Informational Interview (and Get a “Yes”)](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

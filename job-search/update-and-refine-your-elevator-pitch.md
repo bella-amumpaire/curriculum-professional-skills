@@ -17,18 +17,18 @@ Your elevator pitch **must be approved** to complete the block successfully:
 
 ## Refresher on your knowledge about elevator pitches
 
-An elevator pitch is a brief description of your qualities as a software developer, which will help you present yourself compellingly and build your case at different points of the job searching process. 
+An elevator pitch is a brief description of your qualities as a software developer, which will help you present yourself compellingly and build your case at different points of the job searching process.
 
 Before revisiting your elevator pitch, review some key ideas related to this topic:
 
-- Refresh your memory about [Why are elevator pitches so useful?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interviewing/why-are-elevator-pitches-so-useful.md)
+- Refresh your memory about [Why are elevator pitches so useful?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interviewing/why-are-elevator-pitches-so-useful.md)
 
 ## Project setup
 
 - Open up the latest version of your elevator pitch.
 - Open the skills grid that you created in these two exercises:
-    - [Creating your skills chart - day 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day-1.md).
-    - [Creating your skills chart - day 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day2.md).
+  - [Creating your skills chart - day 1](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day-1.md).
+  - [Creating your skills chart - day 2](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day2.md).
 - Open the [Elevator pitch rubric](https://docs.google.com/document/d/1w8Gxw9lJka3lbh4meLGBUdnrawSlga7ZMZW8Eelobrw/edit?usp=sharing).
 - Open the [Elevator pitch submission template](https://docs.google.com/document/d/16j_HVpFr-RKStdTTQMeRc7omu1H3SklkMOMmRUHXQP8/edit?usp=sharing).
 
@@ -38,20 +38,21 @@ Before revisiting your elevator pitch, review some key ideas related to this top
 
 When looking for a remote job, you will need to present yourself in different contexts ranging from synchronous interactions with someone (a hiring manager or a peer) as well as in asynchronous communication introducing yourself in writing or video. To be ready to explain your talents in a concise yet compelling way, it is essential to prepare your elevator pitch in written format and to practice presenting it orally.
 
-In this exercise, you will refine your written elevator pitch using the [Elevator pitch rubric](https://docs.google.com/document/d/1w8Gxw9lJka3lbh4meLGBUdnrawSlga7ZMZW8Eelobrw/edit?usp=sharing) as a reference to analyze whether or not it satisfies all the requirements. Then you will record a video of yourself reciting your pitch. 
+In this exercise, you will refine your written elevator pitch using the [Elevator pitch rubric](https://docs.google.com/document/d/1w8Gxw9lJka3lbh4meLGBUdnrawSlga7ZMZW8Eelobrw/edit?usp=sharing) as a reference to analyze whether or not it satisfies all the requirements. Then you will record a video of yourself reciting your pitch.
 
 1. Assess if your written elevator pitch meets all the requirements of the rubric. For each one:
-    - **Read** the requirement description carefully.
-    - **Compare** each requirement with your elevator pitcch.
-    - **Identify** the level that best describes the degree to which your elevator pitch meets each requirement.
-    - **Add** your assessment in the “Score and areas of improvement” (see example).
-    - Make **use** of the suggested resources (or any other ones within the Microverse curriculum).
-    - **Improve** your elevator pitch so that it meets all requirements.
+   - **Read** the requirement description carefully.
+   - **Compare** each requirement with your elevator pitcch.
+   - **Identify** the level that best describes the degree to which your elevator pitch meets each requirement.
+   - **Add** your assessment in the “Score and areas of improvement” (see example).
+   - Make **use** of the suggested resources (or any other ones within the Microverse curriculum).
+   - **Improve** your elevator pitch so that it meets all requirements.
 2. Practice presenting your elevator pitch orally and record a video of yourself. You have already recorded it once during the core program. Follow these steps:
-    - Read through your pitch and highlight one keyword to help you remember each paragraph. So, for example, if your pitch contains 3 sections, you should have 3 keywords. Then, memorize your keywords and read through your pitch again so you can see how your chosen keywords will help you remember your pitch.
-    - Now put the pitch away and stand in front of a mirror. Practice your pitch solo by using keywords to help you remember significant parts of your pitch. Next, recite your pitch in front of the mirror. If you forget what you wanted to say, take a quick look at your keywords or pitch, and then continue reciting in front of your mirror.
-    - Still standing in front of your mirror, recite your pitch with your eyes closed. Recite it while making silly faces, and recite it while smiling. You will have many more opportunities to practice this.
-    - Once you have practiced reciting your pitch, record a video of yourself delivering the elevator pitch. Look at the webcam while speaking, and try not to read directly from the script.
+
+   - Read through your pitch and highlight one keyword to help you remember each paragraph. So, for example, if your pitch contains 3 sections, you should have 3 keywords. Then, memorize your keywords and read through your pitch again so you can see how your chosen keywords will help you remember your pitch.
+   - Now put the pitch away and stand in front of a mirror. Practice your pitch solo by using keywords to help you remember significant parts of your pitch. Next, recite your pitch in front of the mirror. If you forget what you wanted to say, take a quick look at your keywords or pitch, and then continue reciting in front of your mirror.
+   - Still standing in front of your mirror, recite your pitch with your eyes closed. Recite it while making silly faces, and recite it while smiling. You will have many more opportunities to practice this.
+   - Once you have practiced reciting your pitch, record a video of yourself delivering the elevator pitch. Look at the webcam while speaking, and try not to read directly from the script.
 
 3. After reviewing your elevator pitch and recording your video, create a Google Doc with all the links using this [template](https://docs.google.com/document/d/16j_HVpFr-RKStdTTQMeRc7omu1H3SklkMOMmRUHXQP8/edit#).
 
@@ -59,7 +60,7 @@ In this exercise, you will refine your written elevator pitch using the [Elevat
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit the **link to your Gdoc with both versions of your polished elevator pitch** in this [template](https://docs.google.com/document/d/16j_HVpFr-RKStdTTQMeRc7omu1H3SklkMOMmRUHXQP8/edit#), so that your coach can review it and give you feedback.
 
@@ -67,4 +68,4 @@ Now go to your Student Dashboard and submit the **link to your Gdoc with both v
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

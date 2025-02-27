@@ -29,15 +29,15 @@ Time management is a skill that can improve many aspects of your work life. It c
 
 Time management is an important component of your overall productivity in your career and life. Knowing how to manage your time at work or through an educational program like Microverse can reduce stress and improve your ability to function effectively. Learn more on time management in the article below:
 
-[Time Management Skills and Best Practices](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md)
+[Time Management Skills and Best Practices](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md)
 
 ### Communicating delays
 
-The above time management skills are to be practiced regularly to improve and achieve your goals. However, there are days when you might not be able to complete a task due to a personal situation outside of your control or a reasonable professional situation! 
+The above time management skills are to be practiced regularly to improve and achieve your goals. However, there are days when you might not be able to complete a task due to a personal situation outside of your control or a reasonable professional situation!
 
 Learn more about communicating delays effectively:
 
-- [Communicating delays effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/communicating-delays-effectively.md)
+- [Communicating delays effectively](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/communicating-delays-effectively.md)
 
 - [What to do when you know you’re going to miss a deadline](https://www.cleverism.com/what-to-do-when-you-know-youre-going-to-miss-a-deadline/)
 
@@ -45,12 +45,12 @@ Learn more about communicating delays effectively:
 
 ### Submission instructions
 
-After you have studied the time management best practice here: [Time Management Skills and Best Practices](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md), do the following:
+After you have studied the time management best practice here: [Time Management Skills and Best Practices](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md), do the following:
 
-Using the google template linked below, complete this exercise by doing the following: 
+Using the google template linked below, complete this exercise by doing the following:
 
-1. Set your weekly goal for the next one week and break it down into smaller tasks. 
-2. Practice writing an email to Microverse to communicate delay on a project. 
+1. Set your weekly goal for the next one week and break it down into smaller tasks.
+2. Practice writing an email to Microverse to communicate delay on a project.
 
 **Exercise template:** [Time management assessment](https://docs.google.com/document/d/1Hdz0qLNV7PhrrBHx8cKylj7GJHleNFkPuWhOXXE3uIM/edit?usp=sharing)
 
@@ -68,7 +68,6 @@ Now go to your Student Dashboard and submit your exercise.
 - [What is the difference between synchronous and asynchronous remote work?](https://microverse.zendesk.com/hc/en-us/articles/360052011513-What-is-the-difference-between-synchronous-and-asynchronous-remote-work-)
 - [Time management strategies using the 4-quadrant method.](https://appfluence.com/productivity/time-management-strategies-for-busy-people-using-the-4-quadrant-method/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

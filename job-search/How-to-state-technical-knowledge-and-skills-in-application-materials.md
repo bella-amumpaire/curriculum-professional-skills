@@ -41,8 +41,8 @@ _Think about these questions as you learn about improving your ability to state 
 
 _These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [Update resume based on feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/update-resume-based-on-feedback.md)
-- [Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md)
+- [Update resume based on feedback](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/update-resume-based-on-feedback.md)
+- [Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ## Introduction
 
-The importance of this morning session is to highlight and put into practice the basics and strategies for effective and proactive communication with your colleagues. 
+The importance of this morning session is to highlight and put into practice the basics and strategies for effective and proactive communication with your colleagues.
 
 ### Why is effective communication practice important?
 
@@ -18,8 +18,8 @@ Communicating effectively with your colleagues minimizes misunderstandings and m
 
 ### Effective communication practice
 
-*Read through this next section individually for five minutes, but stay on the Zoom call with your group.*
-Learning this topic will help you understand some ways to communicate better with your colleagues at work and during the Microverse program. 
+_Read through this next section individually for five minutes, but stay on the Zoom call with your group._
+Learning this topic will help you understand some ways to communicate better with your colleagues at work and during the Microverse program.
 Guiding questions:
 
 - Do you experience improved work experience and collaboration by virtue of your communication skills?
@@ -28,13 +28,13 @@ Guiding questions:
 
 Learn more about effective communication practice:
 
-[Effective communication practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/effective-communication-practice.md)
+[Effective communication practice](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/soft-skills/effective-communication-practice.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Use the next ten minutes to complete the first part of the activity template individually.
 2. Then use the rest of the session to have a group discussion following part two of the activity.
@@ -48,12 +48,11 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [7 Ways to Communicate Better with Your Coworkers](https://www.samepage.io/blog/7-ways-communicate-better-your-coworkers)
 - [9 Secrets to Effective Communication in the Workplace](https://toggl.com/blog/effective-communication-workplace)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

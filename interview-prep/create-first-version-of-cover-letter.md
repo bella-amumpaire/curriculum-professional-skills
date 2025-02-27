@@ -16,7 +16,7 @@ In this project, we'll walk you through how to create a cover letter that expand
 
 For as long as human beings have existed, we've told each other stories. Our societies are built on stories, and good stories can help even strangers feel like they already know you. That's the purpose of a cover letter: to tell a story of who you are, why you're a strong job candidate, and why you'd be an exceptional employee. Most cover letters do nothing but summarize a person's job experiences, which wastes the opportunity to talk about what makes you special. A strong cover letter, however, is an opportunity to frame your experiences and professional strengths, and to explain why you would make a better prospective hire than any other job applicant in an application pile. This project will walk you through **how to write a cover letter designed to tell a compelling story that showcases your professional strengths and uniqueness, regardless of your previous experience**.
 
-[Comparing weak cover letters versus strong cover letters (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/comparing-weak-cover-letters-versus-strong-cover-letters.md)
+[Comparing weak cover letters versus strong cover letters (video lesson)](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/comparing-weak-cover-letters-versus-strong-cover-letters.md)
 
 ### Project Setup
 
@@ -35,16 +35,14 @@ Your cover letter header **is intended to quickly link hiring managers to your o
 
 1. Fill out your header with all of the required information listed in the link above.
 
-
 ## Select the position that you'd like to apply to.
 
-Compelling cover letters are customized to align the story that you are telling about yourself with the requirements of a specific role in a particular company. So the starting point is to identify a job posting and analyze the job requirements to identify what the company is looking. Then, you have to think through very carefully why you are a good candidate for that position: How do your skills aligh with what they are looking for? How does your professional experience prepare you for the role's responibilities? Why are your personal goals aligned with the company's mission? 
+Compelling cover letters are customized to align the story that you are telling about yourself with the requirements of a specific role in a particular company. So the starting point is to identify a job posting and analyze the job requirements to identify what the company is looking. Then, you have to think through very carefully why you are a good candidate for that position: How do your skills aligh with what they are looking for? How does your professional experience prepare you for the role's responibilities? Why are your personal goals aligned with the company's mission?
 
 **Apply what you've learned**
 
 1. Select a company you would like to apply to. This can either be one of your dream companies or a company that has recently posted a job listing on a job board. **Do not** use a placeholder company (like "Company XYZ")**. You must** select a specific, real-world company with a development-related current job opening.
 2. Take 5 minutes to pick 1-2 reasons you are excited about applying to **this specific company**, ensuring that your reason(s) is focused enough that it **could not** be used for any company in the world. If needed spend an additional 5-10 minutes doing research, in order to find details to support your reasoning. **Remember that you will be applying to this company at the end of this lesson; the more focused/personalized your introduction, the better.**
-
 
 ## Write the introduction paragraph of your cover letter
 
@@ -56,7 +54,7 @@ Your introduction is the first opportunity you have in your cover letter to catc
 
 **Apply what you've learned**
 
-1. Take 10-20 minutes to write an introduction using the curriculum above. 
+1. Take 10-20 minutes to write an introduction using the curriculum above.
 
 ## Plan and write your first supporting paragraph
 
@@ -73,7 +71,7 @@ The first supporting paragraph of your cover letter is intended to introduce a h
 
 ## Write your second supporting paragraph
 
-Just as your first supporting paragraph is intended to tell a story showcasing your strengths/advantages as a developer, the second supporting paragraph should do the same: explain the skills and traits that have allowed you to succeed in the past, all with the aim of proving that you'd be a stellar employee of the company you're applying to. 
+Just as your first supporting paragraph is intended to tell a story showcasing your strengths/advantages as a developer, the second supporting paragraph should do the same: explain the skills and traits that have allowed you to succeed in the past, all with the aim of proving that you'd be a stellar employee of the company you're applying to.
 
 **Learn more about how to write an engaging supporting paragraph two:**
 
@@ -129,36 +127,33 @@ Attention to detail is one of the most valuable skills needed for software devel
 
 ### Submission Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 1. Your cover letter is a Google Doc.
 2. You have shared your cover letter so that **anyone with the link** can leave suggestions.
 
 ## Review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a review of your project.
 
 In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give you and your reviewers enough time for all the necessary iterations.
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
-Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes. You can submit your project for review a max of 5 times. 
+Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes. You can submit your project for review a max of 5 times.
 
-Once your cover letter is approved, you will submit it with the rest of your application materials later on in this module. 
-
+Once your cover letter is approved, you will submit it with the rest of your application materials later on in this module.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Ask a Manager: Cover Letter Archives](https://www.askamanager.org/category/cover-letters)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
-

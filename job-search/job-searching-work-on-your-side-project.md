@@ -4,7 +4,7 @@
 
 ## Description
 
-Today you will be working on your side project and moving it forward. 
+Today you will be working on your side project and moving it forward.
 
 ### Why is working on your side project important?
 
@@ -17,9 +17,9 @@ As mentioned previously working on side projects is important for various reason
 
 **Refresh your memory on why it's important to keep your GitHub green:**
 
-Keeping a strong GitHub profile is crucial during your job search. It can can be the difference between receiving interview requests and being rejected for positions outright. To refresh your memory on this topic, read through the first section of this exercese: 
+Keeping a strong GitHub profile is crucial during your job search. It can can be the difference between receiving interview requests and being rejected for positions outright. To refresh your memory on this topic, read through the first section of this exercese:
 
-- [Why is a strong GitHub profile so important?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
+- [Why is a strong GitHub profile so important?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
 
 **Refresh your memory on what you could be working on:**
 
@@ -29,7 +29,7 @@ In solo, in a group or as a contributor to an open-source project, there are man
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [Job Searching - How to plan a good side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md)
-- [Job Searching - Start a new side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-start-a-new-side-project.md)
+- [Job Searching - How to plan a good side project](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md)
+- [Job Searching - Start a new side project](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/job-searching-start-a-new-side-project.md)

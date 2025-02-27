@@ -18,13 +18,11 @@ You have:
 - **One week to complete the activity** and avoid a block repetition.
 
 ## Important❗️
-- Remember the repetition policy changes: now you are allowed 3 block repetitions but no module one. 
-- This module aims to prepare you for job searching, so experienced coaches will review very thoroughly your application materials. 
+
+- Remember the repetition policy changes: now you are allowed 3 block repetitions but no module one.
+- This module aims to prepare you for job searching, so experienced coaches will review very thoroughly your application materials.
 - Plan your work to prepare each material carefully and submit it time. Thus, you will be able to use your block repetitions for more opportunities to present the industry professional mock interview.
-- Submit your first version **no later than Wednesday** to have time to go through the necessary rounds of revision. Coaches might take up to 3 days to send you their comments and request changes. 
-
-
-
+- Submit your first version **no later than Wednesday** to have time to go through the necessary rounds of revision. Coaches might take up to 3 days to send you their comments and request changes.
 
 ## A refresher about the relevance of a LinkedIn profile
 
@@ -38,15 +36,15 @@ Your LinkedIn page consists of a header, a summarized introduction to who you ar
 
 ## Tips for students that have NOT had previous software experience
 
-Creating a compelling LinkedIn profile is especially challenging if you don’t have experience as a software developer, either because you’ve recently completed training or you’re making a career change. In the following article, our career coaches have prepared some suggestions to help you: 
+Creating a compelling LinkedIn profile is especially challenging if you don’t have experience as a software developer, either because you’ve recently completed training or you’re making a career change. In the following article, our career coaches have prepared some suggestions to help you:
 
-- [How to fill your LinkedIn if you don’t have experience as a software developer](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-how-to-fill-out-your-LinkedIn-if-you-dont-have-experience.md)
+- [How to fill your LinkedIn if you don’t have experience as a software developer](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/JSR-how-to-fill-out-your-LinkedIn-if-you-dont-have-experience.md)
 
 ## Remember to categorize your skills correctly
 
 If you need a reminder on how to state your knowledge and skills, refer back to the following article:
 
-- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
+- [How to use correct technical terminology in application materials](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
 ## Project setup
 
@@ -78,9 +76,10 @@ For each section:
 4. **Register your score.** Jot down any possible areas of improvement.
 5. **Review** the tips and suggested learning resources to find ideas for improving to your LinkedIn page.
 6. **Make changes** to your LinkedIn profile.
-7. *Continue with the next section.*
+7. _Continue with the next section._
 
 ❗️**Important note:** Once you have finished all sections, verify that your visibility settings will let career coaches and recruiters see your email. Follow these steps:
+
 - Click on your profile in the upper right corner.
 - Select "Privacy and setting.”
 - Click on "Visibility.”
@@ -91,7 +90,7 @@ Once you believe your LinkedIn page satisfies all the requirements, **submit it 
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit the **link to your LinkedIn Profile** so a coach can review it and give you feedback. You don't need to submit the worksheet.
 
@@ -102,4 +101,4 @@ Now go to your Student Dashboard and submit the **link to your LinkedIn Profile*
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

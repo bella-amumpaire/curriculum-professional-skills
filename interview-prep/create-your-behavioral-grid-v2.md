@@ -10,7 +10,6 @@
 
 In this exercise, you will create a first version of your behavioral grid, using one professional position or project to answer four behavioral questions in the SAR format.
 
-
 ### Why is creating your behavioral grid important?
 
 In any interview where the recruiter is trying to determine whether you will be a good cultural fit for their company, there is a 100% chance that you will be asked behavioral questions. In these questions, the recruiter is trying to assess your soft skills like communication skills, teamwork skills, leadership skills, etc. by looking into examples of how you have addressed situations in the past. The behavioral grid is a tool that helps you plan how you can use your previous projects or professional experiences to craft your answers. Thus, it helps you to be prepared and practice the most common behavioral questions.
@@ -18,16 +17,14 @@ In any interview where the recruiter is trying to determine whether you will be 
 [![Watch the video](https://img.youtube.com/vi/cinxa59bPkM/0.jpg)](https://www.youtube.com/watch?v=cinxa59bPkM)
 
 ### What are the attributes of a good behavioral grid and some mistakes to avoid?
-  
-  
-[![Watch the video](https://img.youtube.com/vi/-_fRNNw9b5Y/0.jpg)](https://www.youtube.com/watch?v=-_fRNNw9b5Y)
 
+[![Watch the video](https://img.youtube.com/vi/-_fRNNw9b5Y/0.jpg)](https://www.youtube.com/watch?v=-_fRNNw9b5Y)
 
 ### Method to use to complete your behavioral grid
 
 You will be using the SAR method to complete your grid. Below is a quick reminder of what the SAR method is:
 
-- [Definition of the SAR method](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-does-sar-mean.md)
+- [Definition of the SAR method](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/what-does-sar-mean.md)
 
 ### How to use the SAR method to create a good behavioral grid
 
@@ -46,9 +43,9 @@ So to apply the SAR method properly, ask yourself the following questions before
 
 **The links below are a quick reminder of how to write your SARs effectively:**
 
-- [How to pick a (S) situation effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-situations%20-to-pick-up-and-how-to-present-them-effectively.md)
-- [How to talk about my (A) actions effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-actions-correctly.md)
-- [How to talk about my (R) results effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-results-effectively.md)
+- [How to pick a (S) situation effectively](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/what-situations%20-to-pick-up-and-how-to-present-them-effectively.md)
+- [How to talk about my (A) actions effectively](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-actions-correctly.md)
+- [How to talk about my (R) results effectively](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-results-effectively.md)
 
 ### Example of a good behavioral grid
 
@@ -58,16 +55,16 @@ The link below shows an example of a good behavioral grid. Make sure you read th
 
 ## Exercise
 
-
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 **Spend 45 minutes working on this exercise**
+
 1. Study the behavioral grid example above to get a better idea of what makes a strong response to behavioral questions. Spend a minute on each story to identify which soft skill or technical skill the story is trying to highlight.
-2. Open [this Behavioral grid template](https://docs.google.com/document/d/10WfzCmmdbyEdY6ztdfaFTosSNZfS-NBww57U6_Y8fIg/edit?usp=sharing). Make your copy by clicking *"File >> Make a Copy"*, and save it to your own Google Drive.
-3. Choose one of your projects or positions to use as a reference for your answers and write the name at the top of the right-hand side column. We recommend choosing a software project or software job if possible. This project can be from Microverse, or it can be from another software experience. 
-4. Using the project or position chosen above, complete the behavioral questions asked in each row of the grid, making sure that each answer you give follows the SAR method. 
+2. Open [this Behavioral grid template](https://docs.google.com/document/d/10WfzCmmdbyEdY6ztdfaFTosSNZfS-NBww57U6_Y8fIg/edit?usp=sharing). Make your copy by clicking _"File >> Make a Copy"_, and save it to your own Google Drive.
+3. Choose one of your projects or positions to use as a reference for your answers and write the name at the top of the right-hand side column. We recommend choosing a software project or software job if possible. This project can be from Microverse, or it can be from another software experience.
+4. Using the project or position chosen above, complete the behavioral questions asked in each row of the grid, making sure that each answer you give follows the SAR method.
 5. Copy and paste the text of each column of your grid into Grammarly to double-check for spelling errors and grammatical issues. Make any changes that Grammarly suggests.
 6. Verify that all technologies and proper nouns are correctly capitalized (for example, use "JavaScript" instead of "Javascript", or "Ruby on Rails" instead of "ruby on rails").
 7. Self-assess your behavioral grid with this [worksheet](https://docs.google.com/document/d/1rOgtm2Xawq79yw2VSY8q9vRQ1NoDJqWms0wdPnWCebQ/edit?usp=sharing). Use section 1 to verify that your answers follow the SAR format and section 2 to check that your grid meets every requirement of the rubric.
@@ -77,17 +74,16 @@ The link below shows an example of a good behavioral grid. Make sure you read th
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project._
 
 Now go to your Student Dashboard and submit the link to your behavioral grid.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Some behavioral interview questions with sample responses](https://www.thebalancecareers.com/job-interview-questions-and-answers-2061204)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

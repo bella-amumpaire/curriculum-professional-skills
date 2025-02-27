@@ -19,7 +19,7 @@ You've used the curriculum and project revision process to create your resume an
 - Open up your resume in Google Docs
 - Open all written and numerical resume feedback from your project reviewer(s). You can find written feedback on your dashboard for each project under the **Action-->View Reviews** button.
 - Open the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit).
-- Open the [walkthrough to create the first draft of your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md).
+- Open the [walkthrough to create the first draft of your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md).
 
 ## Do a final sweep of your resume
 

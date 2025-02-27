@@ -22,6 +22,7 @@ Together, watch the following video to learn more about Hofstede's six dimension
 - [Hofstede's Cultural Framework - video](https://www.youtube.com/watch?v=TX0fUAhBAfc)
 
 As you do, think about the following questions:
+
 - Do you recognize yourself in any of the dimensions?
 - Have you experienced any conflict or difference with a partner that can be explained by the different dimensions?
 - How might these dimensions help you to collaborate cross-culturally?
@@ -33,11 +34,11 @@ As you do, think about the following questions:
 
 This summary of the Hofstede's 6 dimensions may be useful during your discussion:
 
-- [Hofstede's cultural dimensions - summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
+- [Hofstede's cultural dimensions - summarized](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [Hofstede insights: the six dimensions](https://hi.hofstede-insights.com/national-culture)
 - [Compare countries - Hofstede insights](https://www.hofstede-insights.com/product/compare-countries/)
@@ -45,7 +46,6 @@ This summary of the Hofstede's 6 dimensions may be useful during your discussion
 - [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
 - [Hofstede's cultural dimensions - article](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

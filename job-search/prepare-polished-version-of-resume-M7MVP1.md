@@ -19,7 +19,7 @@ In this project, you will prepare the best possible version of your resume and s
 
 Review this video lesson to make sure you understand the key attributes of a compelling resume before working on this exercise.
 
-- [Learn about the three main components of a strong resume (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
+- [Learn about the three main components of a strong resume (video lesson)](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
 
 ## **Exercise**
 

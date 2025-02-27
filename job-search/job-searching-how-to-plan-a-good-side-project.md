@@ -28,7 +28,7 @@ Another initial project can be polishing your portfolio to make sure that it off
 Ideally, you should divide your time fairly evenly between building new projects of your own and contributing to open-source projects built by others. This last option is not easy, but it’s worth the effort. Developers who are active in the open source community and contribute to a wide range of projects tend to do better on the job market because they have a proven track record of contributing high-quality code to a range of projects and working well with others across cultures and time zones.
 If you want to know how to get started, read:
 
-- [Contributing to open source projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/contributing-to-open-source-projects.md)The following resources can help you get off to a good start:
+- [Contributing to open source projects](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/contributing-to-open-source-projects.md)The following resources can help you get off to a good start:
 
 ### Working on your own projects
 
@@ -36,7 +36,7 @@ In addition to contributing to open source projects, it's very useful to build s
 
 Learn more about how to get started with your own project:
 
-- [Building new projects of your own](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/building-new-projects-of-your-own.md)
+- [Building new projects of your own](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/building-new-projects-of-your-own.md)
 
 ### Showing off your work
 
@@ -46,7 +46,7 @@ Always make sure your six most impressive projects are pinned to your GitHub pro
 
 **Learn more about the best practice for showing off your work on GitHub**
 
-- [How should I show off my open source contributions on GitHub?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-should-i-show-off-my-open-source-contributions-on-github.md)
+- [How should I show off my open source contributions on GitHub?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-should-i-show-off-my-open-source-contributions-on-github.md)
 
 ## Challenge yourself
 
@@ -55,7 +55,7 @@ _Use these questions to check what you learned during this lesson._
 - Name one advantage of working on an open-source project
 - When thinking about a new project idea, what's the most important question to ask yourself?
 
-[Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-plan-a-good-side-project-answer-sheet.md)
+[Click here to check your answers to these questions.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-plan-a-good-side-project-answer-sheet.md)
 
 ---
 

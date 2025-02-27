@@ -4,9 +4,9 @@
 
 ## Introduction
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
+_Read through the following section on your own while staying on the Zoom call with your group._
 
-*Spend 5 minutes on this section individually.*
+_Spend 5 minutes on this section individually._
 
 During this morning session, you will get to practice job offer negotiation skills which you will want to keep fresh throughout your time job searching.
 
@@ -20,13 +20,13 @@ While you are encouraged to negotiate every job offer you receive, it can be str
 
 **Refresher on how to negotiate a job offer:**
 
-- [Job offer negotiation practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-offer-negotiation-practice.md)
+- [Job offer negotiation practice](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/job-offer-negotiation-practice.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 **Spend 20 minutes working on this exercise.**
 
@@ -37,6 +37,6 @@ While you are encouraged to negotiate every job offer you receive, it can be str
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.

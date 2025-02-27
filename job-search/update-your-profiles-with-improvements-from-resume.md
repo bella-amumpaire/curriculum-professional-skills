@@ -34,9 +34,9 @@ _Check out this FAQ if you need a refresher on [Google Doc submission best pract
 
 If you need to refresh your memory on how to complete any of the sections of these profiles, refer to the walkthrough that you studied in the core program:
 
-- [Create the first draft of a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
-- [Create a first draft of a professional-looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
-- [Create a first draft of your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create the first draft of a professional LinkedIn page](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
+- [Create a first draft of a professional-looking GitHub profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
+- [Create a first draft of your Wellfound profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 
 2. Create a Google Doc with the link to your three profiles, using the exercise [template](https://docs.google.com/document/d/13tEhJicRf93qYczyecN1xtHfiuNjljE-mXRXRXzWscU/edit?usp=sharing).
 

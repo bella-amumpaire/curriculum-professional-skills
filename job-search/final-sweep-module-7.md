@@ -24,11 +24,11 @@ In order to make the best use of time and avoid unnecesary revisions, make sure 
 
 **Note:** Wellfound has announced it will now be Wellfound: the profile you created is still available but you will see changes in the look&feel.
 
-- [Create a professional looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
-- [Create a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
-- [Create your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
-- [Create your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md)
-- [Write a cover letter template](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md)
+- [Create a professional looking GitHub profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
+- [Create a professional LinkedIn page](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
+- [Create your Wellfound profile](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create your resume](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md)
+- [Write a cover letter template](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md)
 - Portfolio - Review your portfolio and ensure you've added your most recent projects
 
 After you finish reviewing your application materials, create a Google Doc with all the links using this [template](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#).

@@ -8,12 +8,11 @@
 
 ## **Description**
 
-In this professional skills project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first version of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job. 
+In this professional skills project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first version of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job.
 
 You'll submit your elevator pitch for review, receive feedback from a professional skills reviewer, and make necessary changes to get it approved. Later, when you start job searching, you will revisit and polish your elevator pitch with support from a career coach.
 
-
-*IMPORTANT NOTE: Read through each section thoroughly, and then add on to your project as you move through the lesson.*
+_IMPORTANT NOTE: Read through each section thoroughly, and then add on to your project as you move through the lesson._
 
 ## Why is an elevator pitch important?
 
@@ -25,7 +24,7 @@ An elevator pitch is a short speech designed to show others who you are and what
 
 ## Project Setup
 
-Create a Google Doc and open up the share settings to allow **anyone with the link** to **leave suggestions** directly on the document. 
+Create a Google Doc and open up the share settings to allow **anyone with the link** to **leave suggestions** directly on the document.
 
 ## Maintaining focus on development in your elevator pitch
 
@@ -39,7 +38,7 @@ This may sound obvious to you, but it's a common mistake. A lot of people spend 
 
 **Apply what you've learned**
 
-1. Take 5 minutes to think about how the experiences you wrote about in the [USP exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md) would make you a stronger developer.
+1. Take 5 minutes to think about how the experiences you wrote about in the [USP exercise](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md) would make you a stronger developer.
 2. When you've done so, proceed to the next step.
 
 ## Introducing yourself effectively
@@ -63,7 +62,7 @@ In the link below, we'll go over strong and weak introductions, and will explain
 
 Now that you've written your introduction, it's time to **use your USP to write a brief overview of** your **relevant experience**. This should be **no more than 2-3 sentences long**, and should focus only on the **best experiences, the most relevant ones, or the ones that tell the best story.**
 
-You already chose several experiences while [creating your USP in an earlier lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). In this section, we'll be expanding on those stories with additional detail and context in order to showcase what you've done in your career thus far.
+You already chose several experiences while [creating your USP in an earlier lesson](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). In this section, we'll be expanding on those stories with additional detail and context in order to showcase what you've done in your career thus far.
 
 **Learn more about how to convey your history and accomplishments in ways that are clear, full of context, and that persuasively indicate your potential as a developer:**
 
@@ -101,7 +100,7 @@ In the link below, we'll discuss how to personalize your elevator pitch in such 
 
 **Learn more about how to showcase what makes you special in an elevator pitch:**
 
-[How to personalize your pitch in order to  build rapport with your audience](how-to-personalize-your-pitch-in-order-to-build-rapport-with-your-audience.md)
+[How to personalize your pitch in order to build rapport with your audience](how-to-personalize-your-pitch-in-order-to-build-rapport-with-your-audience.md)
 
 **Apply what you've learned**
 
@@ -148,21 +147,20 @@ In the link below, we'll discuss a few strategies you can use to help edit and r
 
 ### **Submission instructions**
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 - Make sure that your Google Doc is shared so that **anyone with the link can leave edits or suggestions**. If you do not share the document, your project reviewer will return the document to you without review.
 - Run your document through Grammarly before you submit it.
 
-
 ## Review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a review of your project.
 
 In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations. You can submit this project for review a maximum of 5 times.
 
 ## Submit your project
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.
 
@@ -177,8 +175,6 @@ If you'd like to learn more about how to create compelling elevator pitches, tak
 - [Video - Create the perfect elevator pitch & sales pitch - best elevator pitch examples & template](https://www.youtube.com/watch?v=3qd2GbnKjio)
 - [Article - how to write a sure-fire elevator pitch for your job search](https://www.recruiter.com/i/how-to-write-a-sure-fire-elevator-pitch-for-your-job-search/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
-

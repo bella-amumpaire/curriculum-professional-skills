@@ -18,7 +18,7 @@ Imposter Syndrome is very common and even more so with software developers. The 
 
 **Guiding questions:**
 
-*The people in the video will share their experience with imposter syndrome. Think about the following questions while you watch the videos:*
+_The people in the video will share their experience with imposter syndrome. Think about the following questions while you watch the videos:_
 
 - How does imposter syndrome manifest itself in the people in the videos? What kind of thoughts did they experience because of imposter syndrome?
 - What are the strategies that the people in the example used to overcome imposter syndrome?
@@ -32,18 +32,17 @@ Imposter Syndrome is very common and even more so with software developers. The 
 
 ### Group discussion
 
-*Spend 5 minutes discussing the following questions:*
+_Spend 5 minutes discussing the following questions:_
 
 - How did imposter syndrome show up for the people in the video?
 - What were some of the strategies they used to overcome imposter syndrome?
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [Refresh the lesson: Introduction to imposter syndrome](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/introduction-to-imposter-syndrome.md)
+- [Refresh the lesson: Introduction to imposter syndrome](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/imposter-syndrome/introduction-to-imposter-syndrome.md)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

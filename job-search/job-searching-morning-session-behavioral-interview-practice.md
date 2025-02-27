@@ -4,9 +4,9 @@
 
 ## Introduction
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
+_Read through the following section on your own while staying on the Zoom call with your group._
 
-*Spend 5 minutes on this section individually*
+_Spend 5 minutes on this section individually_
 
 During this morning session, you will get to practice behavioral interview with one of your peers.
 
@@ -16,25 +16,25 @@ Behavioral interviews help you practice responses to behavioral questions and se
 
 ### Refresher on behavioral interviews
 
-Here is a refresher on what to expect during a behavioral interview and using SAR format to respond to behavioral interview questions. 
+Here is a refresher on what to expect during a behavioral interview and using SAR format to respond to behavioral interview questions.
 
-- [What to expect during behavioral interview?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-behavioral-interviews.md)
-- [SAR framework for answering behavioral interview questions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-answer-behavioral-questions-using-the-sar-format.md)
+- [What to expect during behavioral interview?](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-behavioral-interviews.md)
+- [SAR framework for answering behavioral interview questions](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/interview-prep/how-to-answer-behavioral-questions-using-the-sar-format.md)
 
 ## Exercise
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)._
 
 **Spend 25 minutes working on this exercise.**
 
-1. Open your copy of the exercise template below and complete the sections. 
+1. Open your copy of the exercise template below and complete the sections.
 
 **Exercise template to copy:** [Job Searching morning session: Behavioral interview practice](https://docs.google.com/document/d/1LvwxEDjSiRnseJp_M9AO8F2me3FbjJEgq4w-VxgmgKM/edit)
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and submit your exercise.

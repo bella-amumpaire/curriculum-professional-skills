@@ -20,7 +20,7 @@ The following section talks more about what outcome-based assessment is and what
 
 **Guiding questions:**
 
-*Think about these questions as you learn about this.*
+_Think about these questions as you learn about this._
 
 - How is outcome-based education different from your previous education?
 - What's the value of having an outcome-based assessment?
@@ -28,19 +28,18 @@ The following section talks more about what outcome-based assessment is and what
 
 **Learn more about outcome-based assessment:**
 
-- [Outcomes-based assessment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/outcome-based-assessment.md)
-- [Capstone projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/capstone-projects-at-microverse.md)
+- [Outcomes-based assessment](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/outcome-based-assessment.md)
+- [Capstone projects](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/capstone-projects-at-microverse.md)
 
 ## Challenge yourself
 
-*Use these questions to check what you learned during this lesson.*
+_Use these questions to check what you learned during this lesson._
 
 - What are outcomes-based assessments?
 - What are the soft skills you will gain from doing capstone projects?
 - How will you be able to utilize the capstone projects after you've finished them?
-[Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/challenge-yourself-answers.md)
+  [Click here to check your answers to these questions.](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/becoming-a-remote-professional/challenge-yourself-answers.md)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

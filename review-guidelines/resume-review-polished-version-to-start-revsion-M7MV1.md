@@ -1,16 +1,17 @@
 # Review polished version of resume to start rounds of revision with job searchers
 
 ## Description
-Job searchers will dedicate one whole week to review their resume with feedback from their career coach. In this exercise, the students polish their latest version of the resume and submit it to start the process. In this review, you should do an in-depth revision of the resume and send comments so that they can work on them throughout the week. Please request all changes necessary. 
+
+Job searchers will dedicate one whole week to review their resume with feedback from their career coach. In this exercise, the students polish their latest version of the resume and submit it to start the process. In this review, you should do an in-depth revision of the resume and send comments so that they can work on them throughout the week. Please request all changes necessary.
 
 ## Get ready for the review
 
 - ❗️[Open the scoring rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit?pli=1)
-- This is [the worksheet](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-resume-M7MVP1.md) that the job searchers used to polish their resume.
+- This is [the worksheet](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-resume-M7MVP1.md) that the job searchers used to polish their resume.
 - This are the [instructions they receive to polish their resume](https://docs.google.com/document/d/1vCBlhu1NlNKuj2KAct1EZI_nMU1vkd6QU60rUiUUqD0/edit).
 
-
 ## Mandatory requirements
+
 NOTE: These are the requirements currently used for resume review in the core program. Let's work together with you, career coaches, to make sure they are helping us get the job searchers' an excellent resume.
 
 ### General requirements
@@ -36,7 +37,7 @@ NOTE: These are the requirements currently used for resume review in the core pr
 13. The resume only lists development and development-adjacent skills (the only exception: if a student is multilingual, they can list their spoken languages).
 14. The resume does not attempt to “grade” skills by assigning a star value or percentage.
 15. The resume contains no more than 4 of the student’s most relevant work experiences, and no less than 1 work experience.
-16. Each work or development-related experience contains between 3 and 5 bullet points. 
+16. Each work or development-related experience contains between 3 and 5 bullet points.
 17. Every bullet point emphasizes either an accomplishment, a metric, or a characteristic that adds value to their candidacy.
 18. The resume only includes a volunteer or extracurricular section if it meets the requirements found in the curriculum.
 19. Each experience here contains between 1-3 bullet points.
@@ -61,8 +62,8 @@ NOTE: These are the requirements currently used for resume review in the core pr
 38. Sentences are written clearly.
 
 ## Stretch requirements
-Any other requirements that you require to the students you should mark them with the [OPTIONAL] tag. Thanks to you, our students will learn more!!
 
+Any other requirements that you require to the students you should mark them with the [OPTIONAL] tag. Thanks to you, our students will learn more!!
 
 ## Final notes
 

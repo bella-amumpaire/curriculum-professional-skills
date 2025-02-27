@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The importance of this lesson is to learn how to negotiate your job offer to ensure that your value is reflected in the compensation, and it aligns with your needs. 
+The importance of this lesson is to learn how to negotiate your job offer to ensure that your value is reflected in the compensation, and it aligns with your needs.
 
 ### Why is negotiating your job offer important?
 
@@ -23,15 +23,15 @@ Guiding questions:
 
 Learn more about negotiating a job offer:
 
-[How to negotiate a job offer](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-negotiate-a-job-offer.md)
+[How to negotiate a job offer](https://github.com/matovu-farid/curriculum-professional-skills/blob/main/job-search/how-to-negotiate-a-job-offer.md)
 
 ## Exercise
 
-*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
+_IMPORTANT NOTE: Read **all** instructions before you start this exercise._
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
 - Read through the statements and copy-paste the statements that best describe job offer negotiation tactics into the box provided in the activity.
 
@@ -45,13 +45,12 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
 - [13 Tips to Negotiate Your Salary and Job Offer](https://www.indeed.com/career-advice/pay-salary/how-to-negotiate-salary)
 - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
 - [How to Negotiate Your Salary](https://www.glassdoor.com/blog/guide/how-to-negotiate-your-salary/)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
